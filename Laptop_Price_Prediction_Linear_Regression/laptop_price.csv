@@ -1,0 +1,1276 @@
+Company,TypeName,Ram,OS,Weight,Screen,ScreenW,ScreenH,Touchscreen,IPSpanel,RetinaDisplay,CPU_company,CPU_freq,SecondaryStorage,PrimaryStorageType,SecondaryStorageType,GPU_company,Price_PKR
+Apple,Ultrabook,8,macOS,1.37,Standard,2560,1600,No,Yes,Yes,Intel,2.3,0,SSD,No,Intel,423342.0
+Apple,Ultrabook,8,macOS,1.34,Standard,1440,900,No,No,No,Intel,1.8,0,Flash Storage,No,Intel,284065.0
+HP,Notebook,8,No OS,1.86,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,181700.0
+Apple,Ultrabook,16,macOS,1.83,Standard,2880,1800,No,Yes,Yes,Intel,2.7,0,SSD,No,AMD,801834.0
+Apple,Ultrabook,8,macOS,1.37,Standard,2560,1600,No,Yes,Yes,Intel,3.1,0,SSD,No,Intel,569938.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,AMD,3.0,0,HDD,No,AMD,126400.0
+Apple,Ultrabook,16,Mac OS X,2.04,Standard,2880,1800,No,Yes,Yes,Intel,2.2,0,Flash Storage,No,Intel,676231.0
+Apple,Ultrabook,8,macOS,1.34,Standard,1440,900,No,No,No,Intel,1.8,0,Flash Storage,No,Intel,366149.0
+Asus,Ultrabook,16,Windows 10,1.3,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Nvidia,472420.0
+Acer,Ultrabook,8,Windows 10,1.6,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,243320.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,124472.0
+HP,Notebook,4,No OS,1.86,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,109017.0
+Apple,Ultrabook,16,macOS,1.83,Standard,2880,1800,No,Yes,Yes,Intel,2.8,0,SSD,No,AMD,771031.0
+Dell,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,AMD,157652.0
+Apple,Ultrabook,8,macOS,0.92,Standard,2304,1440,No,Yes,Yes,Intel,1.2,0,SSD,No,Intel,398918.0
+Apple,Ultrabook,8,macOS,1.37,Standard,2560,1600,No,Yes,Yes,Intel,2.3,0,SSD,No,Intel,479862.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,235420.0
+Apple,Ultrabook,16,macOS,1.83,Standard,2880,1800,No,Yes,Yes,Intel,2.9,0,SSD,No,AMD,903128.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.4,0,HDD,No,Nvidia,157684.0
+Dell,Ultrabook,8,Windows 10,1.22,Full HD,1920,1080,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,309364.0
+Asus,Netbook,2,Windows 10,0.98,Standard,1366,768,No,No,No,Intel,1.44,0,Flash Storage,No,Intel,60640.0
+Lenovo,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.5,1024,SSD,HDD,Nvidia,315684.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,AMD,1.5,0,HDD,No,AMD,81528.0
+Dell,2 in 1 Convertible,8,Windows 10,1.62,Full HD,1920,1080,Yes,No,No,Intel,1.6,0,SSD,No,Intel,258804.0
+HP,Ultrabook,8,Windows 10,1.91,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,208244.0
+Dell,Notebook,4,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,132290.0
+Apple,Ultrabook,8,Mac OS X,1.35,Standard,1440,900,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,347284.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,AMD,252800.0
+Dell,Ultrabook,8,Windows 10,1.88,Full HD,1920,1080,No,No,No,Intel,1.9,256,SSD,SSD,Intel,410168.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,Nvidia,283136.0
+Chuwi,Notebook,4,Windows 10,1.89,Full HD,1920,1080,No,No,No,Intel,1.44,0,Flash Storage,No,Intel,77417.0
+Asus,Notebook,2,Windows 10,1.65,Standard,1366,768,No,No,No,AMD,1.5,0,Flash Storage,No,AMD,62884.0
+HP,Notebook,4,Windows 10,2.71,Full HD,1920,1080,No,No,No,AMD,2.5,0,HDD,No,AMD,138724.0
+Dell,Ultrabook,16,Windows 10,1.2,Quad HD+,3200,1800,Yes,No,No,Intel,1.8,0,SSD,No,Intel,590604.0
+Apple,Ultrabook,8,Mac OS X,1.35,Standard,1440,900,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,315368.0
+Lenovo,Notebook,4,Windows 10,1.44,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,78684.0
+Acer,Notebook,4,Linux,2.1,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,Intel,115972.0
+Dell,Notebook,8,Windows 10,2.8,Full HD,1920,1080,No,Yes,No,Intel,1.6,1024,SSD,HDD,AMD,309364.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,154426.0
+HP,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Nvidia,277764.0
+Asus,Notebook,4,Linux,2.0,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,122924.0
+Dell,Gaming,16,Windows 10,2.65,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,473684.0
+Asus,Notebook,8,Linux,2.3,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Nvidia,165265.0
+Acer,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,215512.0
+Dell,2 in 1 Convertible,12,Windows 10,2.77,Full HD,1920,1080,Yes,No,No,Intel,1.6,0,HDD,No,Nvidia,315684.0
+Apple,Ultrabook,8,macOS,1.37,Standard,2560,1600,No,Yes,Yes,Intel,2.0,0,SSD,No,Intel,448404.0
+Lenovo,Notebook,4,No OS,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,116604.0
+Asus,Gaming,8,Windows 10,3.2,Full HD,1920,1080,No,No,No,AMD,3.0,1024,SSD,HDD,AMD,410484.0
+Dell,Notebook,4,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,201924.0
+Asus,Notebook,4,Windows 10,2.8,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Nvidia,147256.0
+Lenovo,2 in 1 Convertible,4,Android,0.69,Standard,1920,1200,Yes,Yes,No,Intel,1.44,0,Flash Storage,No,Intel,100804.0
+Acer,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Nvidia,265756.0
+HP,Notebook,4,Windows 10,1.86,Full HD,1920,1080,No,No,No,AMD,2.5,0,SSD,No,AMD,125923.0
+HP,Notebook,8,Windows 10,1.49,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,348548.0
+Acer,Notebook,4,Windows 10,2.4,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,121344.0
+Dell,Notebook,8,Windows 10,2.13,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,AMD,242625.0
+HP,Notebook,4,Windows 10,1.91,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,138724.0
+Asus,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,185236.0
+MSI,Gaming,16,Windows 10,2.43,Full HD,1920,1080,No,No,No,Intel,2.8,2048,SSD,HDD,Nvidia,773884.0
+Asus,Notebook,4,Linux,2.0,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,131140.0
+Dell,Notebook,16,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,410484.0
+Dell,Ultrabook,8,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,277764.0
+Lenovo,Notebook,8,No OS,1.7,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,189284.0
+Asus,Notebook,8,Windows 10,1.4,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,297356.0
+HP,Notebook,8,Windows 10,1.86,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,218040.0
+Asus,Ultrabook,16,Windows 10,1.8,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,626628.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,138626.0
+HP,Notebook,4,Windows 10,1.44,Standard,1366,768,No,No,No,Intel,1.6,0,SSD,No,Intel,72364.0
+Lenovo,Notebook,4,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,173484.0
+Asus,Gaming,12,Linux,3.0,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,299884.0
+Microsoft,Ultrabook,4,Windows 10 S,1.252,Standard,2256,1504,Yes,No,No,Intel,2.5,0,SSD,No,Intel,344124.0
+Dell,Ultrabook,8,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,AMD,301780.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,AMD,274920.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,346020.0
+Acer,Notebook,8,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,122924.0
+Asus,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,299884.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,164004.0
+Dell,Notebook,8,Windows 10,2.02,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,Intel,270180.0
+Acer,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,167480.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.6,1024,SSD,HDD,Nvidia,308732.0
+Dell,Ultrabook,8,Windows 10,1.88,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,346387.0
+Apple,Ultrabook,8,macOS,0.92,Standard,2304,1440,No,Yes,Yes,Intel,1.3,0,SSD,No,Intel,477160.0
+HP,Notebook,8,Windows 10,1.63,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,271760.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,2.5,0,SSD,No,AMD,126084.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,AMD,3.0,0,HDD,No,AMD,124820.0
+Dell,Gaming,16,Windows 10,2.65,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,426284.0
+HP,Ultrabook,8,Windows 10,1.83,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Nvidia,220884.0
+HP,Notebook,8,Windows 10,1.96,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,189281.0
+Asus,Gaming,16,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,457884.0
+Dell,Ultrabook,8,Windows 10,1.21,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Intel,521084.0
+Asus,Gaming,8,Windows 10,2.45,Full HD,1920,1080,No,No,No,AMD,3.0,0,HDD,No,AMD,220884.0
+Acer,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.8,0,HDD,No,Nvidia,217724.0
+HP,Notebook,16,Windows 10,1.49,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,378252.0
+Dell,Gaming,8,Windows 10,2.65,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,377620.0
+Asus,Ultrabook,8,Windows 10,1.25,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,331484.0
+Acer,2 in 1 Convertible,8,Windows 10,1.5,Full HD,1920,1080,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,267652.0
+Dell,Notebook,8,Linux,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,AMD,189568.0
+Dell,Notebook,4,Linux,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,AMD,153260.0
+Asus,Notebook,6,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Nvidia,182332.0
+HP,Gaming,12,Windows 10,2.62,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,394684.0
+HP,Notebook,8,Windows 10,1.91,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,227204.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,AMD,1.5,0,HDD,No,AMD,110284.0
+Dell,Notebook,8,Linux,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,AMD,204452.0
+HP,Ultrabook,8,Windows 10,1.38,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,353604.0
+Microsoft,Ultrabook,8,Windows 10 S,1.252,Standard,2256,1504,Yes,No,No,Intel,2.5,0,SSD,No,Intel,423440.0
+HP,Notebook,6,Windows 10,1.58,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,208244.0
+Lenovo,Notebook,4,Windows 10,1.85,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,131108.0
+Asus,Ultrabook,8,Windows 10,1.3,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,376988.0
+MSI,Gaming,16,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,410484.0
+Lenovo,Notebook,8,Windows 10,1.58,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,467680.0
+Asus,Ultrabook,16,Windows 10,1.5,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,Nvidia,398792.0
+Dell,Ultrabook,8,Windows 10,1.23,Quad HD+,3200,1800,Yes,No,No,Intel,2.4,0,SSD,No,Intel,435764.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,442084.0
+HP,Notebook,4,Windows 10,1.63,Standard,1366,768,No,Yes,No,Intel,1.6,0,HDD,No,Intel,228152.0
+Dell,Ultrabook,8,Windows 10,1.21,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,514764.0
+HP,2 in 1 Convertible,8,Windows 10,1.26,Full HD,1920,1080,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,442081.0
+HP,Notebook,8,Windows 10,1.63,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,342544.0
+Dell,Notebook,8,Windows 10,2.16,Full HD,1920,1080,No,Yes,No,Intel,1.8,1024,SSD,HDD,Nvidia,357184.0
+Asus,Notebook,4,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Nvidia,178224.0
+Asus,Notebook,8,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Nvidia,353288.0
+Acer,Notebook,6,Windows 10,2.1,Full HD,1920,1080,Yes,Yes,No,Intel,2.4,0,HDD,No,Intel,151364.0
+MSI,Gaming,16,Windows 10,1.8,Full HD,1920,1080,No,No,No,Intel,2.8,2048,SSD,HDD,Nvidia,708314.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,198764.0
+HP,Notebook,16,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Nvidia,401636.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,AMD,3.0,0,SSD,No,AMD,142516.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,81844.0
+HP,Notebook,8,Windows 10,1.63,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,Intel,256592.0
+Asus,Notebook,4,Windows 10 S,1.65,Standard,1366,768,No,No,No,AMD,1.5,0,SSD,No,AMD,87845.0
+Dell,Notebook,16,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,441136.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,293248.0
+Dell,Notebook,8,Windows 10,2.36,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,201921.0
+Dell,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,AMD,141884.0
+Acer,Ultrabook,8,Windows 10,1.6,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Intel,279344.0
+Acer,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,180752.0
+HP,Notebook,8,Windows 10,2.05,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,Intel,188968.0
+HP,Notebook,8,Windows 10,1.63,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,312208.0
+Lenovo,Notebook,4,No OS,1.9,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,79746.0
+Asus,Gaming,8,Windows 10,3.0,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,296408.0
+Lenovo,Notebook,4,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,157684.0
+HP,Notebook,4,Windows 10,1.32,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,220884.0
+Acer,Notebook,4,Windows 10,3.0,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,HDD,No,Nvidia,206980.0
+Lenovo,Notebook,8,Windows 10,1.75,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,AMD,352662.0
+Lenovo,Gaming,8,No OS,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,274604.0
+Toshiba,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,190232.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,AMD,2.5,0,SSD,No,AMD,116604.0
+Asus,Ultrabook,8,Windows 10,1.25,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,347284.0
+HP,Ultrabook,8,Windows 10,0.97,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.2,0,SSD,No,Intel,636424.0
+Asus,Notebook,4,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,1.1,0,HDD,No,Intel,108704.0
+MSI,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,641164.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,141252.0
+Dell,Gaming,16,Windows 10,2.56,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,394766.0
+Dell,Gaming,8,Windows 10,2.62,Full HD,1920,1080,No,No,No,Intel,2.8,0,Hybrid,No,Nvidia,284084.0
+Lenovo,Notebook,4,Windows 10,1.9,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,157368.0
+MSI,Gaming,16,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,597240.0
+HP,Ultrabook,4,Windows 10,1.48,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,341912.0
+HP,Notebook,6,Windows 10,1.91,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,AMD,195604.0
+Lenovo,2 in 1 Convertible,4,Windows 10,1.74,Full HD,1920,1080,Yes,Yes,No,Intel,2.4,0,SSD,No,Intel,198764.0
+Asus,2 in 1 Convertible,8,Windows 10,1.1,Full HD,1920,1080,Yes,No,No,Intel,1.6,0,SSD,No,Intel,415540.0
+Dell,2 in 1 Convertible,8,Windows 10,1.56,Full HD,1920,1080,Yes,No,No,Intel,1.8,0,SSD,No,Intel,331484.0
+Toshiba,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.2,0,HDD,No,Intel,141252.0
+Asus,Notebook,4,Windows 10,2.03,Standard,1366,768,No,No,No,AMD,3.0,0,HDD,No,AMD,127348.0
+Acer,Notebook,4,Windows 10,3.0,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Nvidia,254380.0
+Dell,Notebook,8,Windows 10,2.13,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,AMD,230048.0
+Lenovo,Gaming,16,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,340964.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,109968.0
+MSI,Gaming,16,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,568484.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,114869.0
+Dell,Gaming,8,Windows 10,2.56,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,335115.0
+Acer,Notebook,8,Windows 10,3.0,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Nvidia,269864.0
+HP,Notebook,4,Windows 10,1.49,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,HDD,No,Intel,238264.0
+Huawei,Ultrabook,8,Windows 10,1.05,Full HD,2160,1440,No,Yes,No,Intel,2.5,0,SSD,No,Intel,426284.0
+HP,Notebook,6,Windows 10,2.71,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,AMD,220884.0
+Lenovo,Notebook,4,No OS,2.2,Standard,1366,768,No,No,No,AMD,2.9,0,HDD,No,AMD,97644.0
+Toshiba,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,154524.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Nvidia,291668.0
+Dell,Notebook,8,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,145044.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,141884.0
+MSI,Gaming,32,Windows 10,4.4,Full HD,1920,1080,No,No,No,Intel,2.9,1024,SSD,HDD,Nvidia,884484.0
+Lenovo,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,AMD,256908.0
+HP,2 in 1 Convertible,8,Windows 10,1.29,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,473684.0
+Dell,Notebook,16,Linux,2.02,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,331484.0
+Dell,Ultrabook,8,Windows 10,1.23,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,442084.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.4,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,584284.0
+Toshiba,Notebook,8,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,250588.0
+Xiaomi,Notebook,8,No OS,1.95,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Nvidia,378884.0
+Dell,Notebook,16,Windows 10,2.77,Full HD,1920,1080,Yes,No,No,Intel,1.8,0,SSD,No,Nvidia,489484.0
+Dell,Notebook,16,Windows 10,2.06,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.8,0,SSD,No,Nvidia,757452.0
+Lenovo,Gaming,8,No OS,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,246164.0
+Acer,Ultrabook,8,Windows 10,1.12,Full HD,1920,1080,No,Yes,No,Intel,1.2,0,SSD,No,Intel,312524.0
+Dell,Notebook,8,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,AMD,342860.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.42,Standard,2560,1440,Yes,No,No,Intel,2.7,0,SSD,No,Intel,892384.0
+Vero,Notebook,4,Windows 10,1.3,Full HD,1920,1080,No,Yes,No,Intel,1.1,0,Flash Storage,No,Intel,82160.0
+Xiaomi,Ultrabook,8,No OS,1.3,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,315968.0
+Lenovo,Notebook,8,No OS,2.8,Standard,1600,900,No,No,No,Intel,1.6,0,SSD,No,Nvidia,220568.0
+Dell,2 in 1 Convertible,8,Windows 10,1.62,Full HD,1920,1080,Yes,Yes,No,Intel,1.8,0,HDD,No,Intel,265124.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,HDD,No,Nvidia,288824.0
+Razer,Gaming,32,Windows 10,3.49,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.9,0,SSD,No,Nvidia,1927284.0
+HP,Notebook,8,Windows 10,1.49,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,303044.0
+HP,Gaming,16,Windows 10,3.35,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,435764.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Nvidia,330220.0
+Dell,Gaming,16,Windows 10,2.65,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,583020.0
+Lenovo,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,155788.0
+Acer,Notebook,8,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,234472.0
+Lenovo,Gaming,16,Windows 10,3.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,552684.0
+Dell,Workstation,16,Windows 10,2.8,4K Ultra HD,3840,2160,No,No,No,Intel,3.0,1024,SSD,HDD,Nvidia,965380.0
+Lenovo,Gaming,16,No OS,2.4,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,441768.0
+Dell,Notebook,6,Windows 10,2.3,Standard,1366,768,Yes,No,No,Intel,2.4,0,HDD,No,Intel,138724.0
+Dell,Ultrabook,8,Windows 10,1.21,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,615884.0
+Dell,Ultrabook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,457884.0
+Lenovo,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,188652.0
+Acer,Notebook,8,Linux,2.4,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,246164.0
+Asus,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,444612.0
+HP,Notebook,4,No OS,2.1,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,110284.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,173484.0
+Huawei,Ultrabook,8,Windows 10,1.05,Full HD,2160,1440,No,Yes,No,Intel,2.7,0,SSD,No,Intel,473684.0
+Dell,Ultrabook,8,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,AMD,294474.0
+Lenovo,Notebook,8,No OS,2.8,Standard,1600,900,No,No,No,Intel,2.5,0,HDD,No,Nvidia,186124.0
+HP,Notebook,8,Windows 10,1.63,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Nvidia,325796.0
+Dell,Ultrabook,8,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,363084.0
+Dell,2 in 1 Convertible,16,Windows 10,1.62,Full HD,1920,1080,Yes,No,No,Intel,1.8,0,SSD,No,Intel,404164.0
+Dell,Notebook,8,Linux,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,AMD,214043.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.74,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,284084.0
+Toshiba,Ultrabook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,430708.0
+HP,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,Intel,250904.0
+Dell,Gaming,16,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,776203.0
+Acer,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,262912.0
+Dell,Notebook,16,Windows 10,2.3,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,HDD,No,AMD,271447.0
+Asus,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,243004.0
+Asus,Notebook,8,Windows 10,2.69,Full HD,1920,1080,No,No,No,Intel,2.5,500,SSD,HDD,Nvidia,281556.0
+HP,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,AMD,401004.0
+Asus,Notebook,4,Windows 10,2.37,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,126081.0
+HP,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,AMD,1.5,0,HDD,No,AMD,104280.0
+Lenovo,Gaming,16,Windows 10,3.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,473684.0
+Dell,Notebook,8,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,271444.0
+Acer,2 in 1 Convertible,8,Windows 10,1.6,Full HD,1920,1080,Yes,Yes,No,Intel,2.3,0,SSD,No,Intel,217724.0
+Dell,Notebook,16,Linux,2.36,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,284084.0
+Acer,Notebook,4,Linux,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,123240.0
+Asus,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,2.5,1024,SSD,HDD,AMD,181700.0
+Asus,Gaming,32,Windows 10,4.7,Full HD,1920,1080,No,No,No,Intel,2.9,1024,SSD,HDD,Nvidia,1229240.0
+Acer,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,267336.0
+Lenovo,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,186124.0
+Asus,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,Nvidia,361820.0
+Asus,Notebook,8,No OS,2.69,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,280924.0
+Dell,Gaming,8,Windows 10,2.56,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,277764.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.38,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,340964.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,311260.0
+HP,Notebook,8,Windows 10,2.04,Standard,1366,768,Yes,No,No,Intel,2.5,0,HDD,No,Intel,176644.0
+Asus,Gaming,16,Windows 10,3.6,Full HD,1920,1080,No,No,No,Intel,2.9,0,SSD,No,Nvidia,947684.0
+HP,Notebook,4,Windows 10,1.49,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,HDD,No,Intel,213300.0
+Apple,Ultrabook,8,macOS,1.37,Standard,2560,1600,No,Yes,Yes,Intel,3.1,0,SSD,No,Intel,644640.0
+Dell,2 in 1 Convertible,8,Windows 10,2.08,Full HD,1920,1080,Yes,Yes,No,Intel,1.8,0,HDD,No,Intel,258804.0
+Asus,Gaming,16,Windows 10,4.3,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,568484.0
+Asus,Notebook,4,Windows 10,1.68,Standard,1366,768,No,No,No,AMD,3.0,0,HDD,No,AMD,148204.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,584284.0
+Acer,Notebook,4,Windows 10,3.0,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,221832.0
+Dell,Ultrabook,8,Windows 10,1.41,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,299884.0
+HP,Notebook,8,Windows 10,1.91,Standard,1366,768,No,No,No,AMD,2.5,0,SSD,No,AMD,140904.0
+HP,Notebook,16,Windows 10,2.9,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,HDD,No,Nvidia,334644.0
+MSI,Gaming,16,Windows 10,4.14,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,789684.0
+Lenovo,2 in 1 Convertible,8,Windows 10,2.0,Full HD,1920,1080,Yes,Yes,No,Intel,2.8,0,SSD,No,Nvidia,536884.0
+Dell,Notebook,8,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,AMD,360872.0
+Lenovo,Notebook,4,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,140304.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,HDD,No,Intel,228152.0
+Dell,Notebook,4,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,207612.0
+Dell,Notebook,8,Windows 10,2.24,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,AMD,178540.0
+Dell,2 in 1 Convertible,8,Windows 10,2.67,Full HD,1920,1080,Yes,No,No,Intel,1.6,0,SSD,No,Intel,252484.0
+Asus,2 in 1 Convertible,8,Windows 10,1.1,Full HD,1920,1080,Yes,No,No,Intel,1.8,512,SSD,SSD,Intel,473684.0
+Lenovo,Notebook,4,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,147572.0
+HP,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,1.8,0,HDD,No,Nvidia,321688.0
+Lenovo,Notebook,8,Windows 10,2.05,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,278080.0
+Apple,Ultrabook,8,macOS,1.37,Standard,2560,1600,No,Yes,Yes,Intel,2.9,0,SSD,No,Intel,619012.0
+Asus,Gaming,16,Windows 10,3.2,Full HD,1920,1080,No,No,No,AMD,3.0,1024,SSD,HDD,AMD,489484.0
+Dell,Notebook,8,Linux,2.14,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,AMD,232282.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.36,Standard,2560,1440,Yes,No,No,Intel,2.6,0,SSD,No,Intel,789684.0
+Toshiba,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Nvidia,256592.0
+Dell,Notebook,12,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,Intel,225330.0
+Dell,Notebook,8,Linux,2.8,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,AMD,347284.0
+Acer,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,HDD,No,Nvidia,235420.0
+Lenovo,Notebook,4,Windows 10,2.8,Standard,1600,900,No,No,No,Intel,2.0,0,HDD,No,Intel,154524.0
+Lenovo,Notebook,8,No OS,2.8,Full HD,1920,1080,No,No,No,Intel,1.8,0,HDD,No,Nvidia,268284.0
+Lenovo,Notebook,6,Windows 10,2.8,Standard,1600,900,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,271444.0
+Dell,Notebook,4,Linux,2.25,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,AMD,135248.0
+Lenovo,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,261964.0
+Lenovo,Notebook,6,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,182964.0
+Acer,Notebook,8,Windows 10,3.0,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Nvidia,300516.0
+Acer,Notebook,12,Windows 10,2.15,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,HDD,No,Intel,208244.0
+Lenovo,Notebook,8,Windows 10,1.95,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,346652.0
+Asus,Ultrabook,8,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,308732.0
+Lenovo,Gaming,16,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,372564.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,208247.0
+Acer,Notebook,2,Chrome OS,2.19,Standard,1366,768,No,No,No,Intel,1.5,0,SSD,No,Intel,62884.0
+Asus,Gaming,8,Windows 10,3.0,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,375092.0
+HP,Notebook,8,Windows 10,2.54,Standard,1600,900,No,No,No,Intel,2.0,0,HDD,No,Intel,154524.0
+Dell,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,577964.0
+Lenovo,Notebook,8,Windows 10,2.05,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,233524.0
+Lenovo,Gaming,8,Windows 10,3.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,HDD,No,Nvidia,410484.0
+Acer,Notebook,8,Linux,2.5,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,309364.0
+Dell,Workstation,16,Windows 10,3.42,Full HD,1920,1080,No,No,No,Intel,2.9,0,SSD,No,Nvidia,911616.0
+Lenovo,Notebook,6,Windows 10,2.4,Full HD,1920,1080,No,No,No,AMD,2.4,0,HDD,No,AMD,157684.0
+Asus,Ultrabook,16,Windows 10,1.63,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,463888.0
+Asus,Notebook,4,Windows 10,1.3,Standard,1366,768,No,No,No,Intel,2.4,0,SSD,No,Intel,160844.0
+Asus,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,670552.0
+Lenovo,Notebook,6,Windows 10,2.8,Standard,1600,900,No,No,No,Intel,2.5,0,HDD,No,Nvidia,205084.0
+Lenovo,Notebook,8,No OS,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Nvidia,173484.0
+Asus,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,399740.0
+Lenovo,Notebook,4,No OS,2.2,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,113757.0
+HP,2 in 1 Convertible,16,Windows 10,1.28,Full HD,1920,1080,Yes,No,No,Intel,2.8,0,SSD,No,Intel,624100.0
+Toshiba,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,329588.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,258804.0
+HP,Notebook,4,Windows 10,1.86,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,148204.0
+Lenovo,Notebook,8,Windows 10,1.1,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,315684.0
+Dell,Ultrabook,16,Windows 10,1.21,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,789684.0
+MSI,Gaming,16,Windows 10,2.8,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,663284.0
+Acer,Notebook,8,Windows 10,2.23,Full HD,1920,1080,No,No,No,AMD,2.2,0,SSD,No,AMD,148204.0
+Asus,2 in 1 Convertible,2,Windows 10,1.1,Standard,1366,768,Yes,No,No,Intel,1.1,0,Flash Storage,No,Intel,86900.0
+Dell,Notebook,8,Windows 10,2.33,Full HD,1920,1080,No,No,No,Intel,1.6,1024,SSD,HDD,AMD,266704.0
+HP,2 in 1 Convertible,16,Windows 10,1.29,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,773884.0
+Lenovo,Notebook,4,Chrome OS,1.45,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,145328.0
+HP,Notebook,8,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,309680.0
+Acer,Notebook,4,Windows 10,1.4,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,153260.0
+HP,Notebook,8,Windows 10,1.48,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,408272.0
+Lenovo,Notebook,4,Windows 10,2.79,Standard,1600,900,No,No,No,Intel,2.5,0,HDD,No,Nvidia,186124.0
+Asus,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,345704.0
+HP,Notebook,8,Windows 10,2.1,Full HD,1366,768,No,Yes,No,Intel,1.8,0,HDD,No,Intel,285032.0
+Acer,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,AMD,2.7,0,SSD,No,AMD,208244.0
+Lenovo,Notebook,4,Windows 10,1.44,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,92272.0
+Acer,Notebook,6,Windows 10,2.23,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,173484.0
+Asus,Ultrabook,8,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,331768.0
+HP,Ultrabook,8,Windows 10,1.26,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,421860.0
+Dell,Notebook,32,Windows 10,2.06,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.8,0,SSD,No,Nvidia,833924.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,378884.0
+Toshiba,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,297988.0
+Asus,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Intel,421544.0
+Lenovo,Notebook,4,Windows 10,1.85,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,141884.0
+Asus,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,315684.0
+HP,Notebook,8,Windows 10,1.48,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,400688.0
+Dell,Ultrabook,8,Windows 10,1.9,Full HD,1920,1080,No,Yes,No,Intel,1.6,1024,SSD,HDD,Nvidia,331484.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,361504.0
+Asus,Notebook,4,Linux,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,86897.0
+Dell,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Nvidia,361109.0
+Dell,Notebook,4,Linux,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,86868.0
+Lenovo,Notebook,12,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,3.6,0,HDD,No,AMD,284084.0
+HP,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,Yes,No,Intel,2.4,0,HDD,No,Nvidia,226256.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.4,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,663284.0
+Dell,Ultrabook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,498964.0
+Lenovo,Gaming,16,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.8,2048,SSD,HDD,Nvidia,356764.0
+HP,Notebook,2,Windows 10,1.44,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,88164.0
+Dell,Ultrabook,16,Windows 10,1.88,Full HD,1920,1080,No,No,No,Intel,1.9,256,SSD,SSD,Intel,508115.0
+Asus,2 in 1 Convertible,4,Windows 10,1.5,Standard,1366,768,Yes,No,No,Intel,1.1,0,Flash Storage,No,Intel,118500.0
+Dell,Ultrabook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,AMD,209508.0
+Dell,Notebook,16,Windows 10,2.06,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.8,0,SSD,No,Nvidia,640665.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,412064.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,445244.0
+HP,Workstation,8,Windows 10,2.6,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,549293.0
+Toshiba,Notebook,16,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,443348.0
+Dell,Notebook,8,Windows 10,2.02,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,306804.0
+Lenovo,Notebook,4,No OS,2.2,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,101749.0
+Dell,Gaming,8,Windows 10,2.65,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,315684.0
+Dell,Notebook,8,Windows 10,2.36,Standard,1366,768,Yes,No,No,Intel,2.5,0,HDD,No,Intel,176129.0
+Dell,Notebook,8,Windows 10,1.36,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,450932.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,138724.0
+Asus,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,298620.0
+Lenovo,Notebook,6,Windows 10,2.8,Standard,1600,900,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,227204.0
+HP,Notebook,8,Windows 10,1.86,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,201924.0
+Lenovo,Notebook,8,No OS,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Nvidia,157684.0
+HP,Notebook,8,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,122924.0
+Dell,Notebook,8,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,1.6,1024,SSD,HDD,AMD,342860.0
+Lenovo,Gaming,8,No OS,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.5,1024,SSD,HDD,Nvidia,255644.0
+Dell,Notebook,8,Windows 10,2.33,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,284084.0
+HP,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,553000.0
+Asus,2 in 1 Convertible,12,Windows 10,2.26,Full HD,1920,1080,Yes,No,No,Intel,2.7,2048,SSD,HDD,Nvidia,347284.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,AMD,3.0,0,SSD,No,AMD,134616.0
+Asus,Gaming,16,Windows 10,3.25,Full HD,1920,1080,No,Yes,No,AMD,3.0,1024,SSD,HDD,AMD,694884.0
+Lenovo,Notebook,4,Windows 10,2.6,Standard,1600,900,No,No,No,AMD,2.2,0,SSD,No,AMD,154524.0
+Dell,2 in 1 Convertible,8,Windows 10,1.62,Full HD,1920,1080,Yes,No,No,Intel,1.8,0,SSD,No,Intel,274607.0
+HP,Notebook,4,Windows 10,1.91,Full HD,1920,1080,No,No,No,AMD,3.0,0,SSD,No,AMD,154521.0
+Lenovo,Netbook,4,Windows 10,1.59,Standard,1366,768,No,Yes,No,Intel,1.1,0,SSD,No,Intel,174748.0
+Dell,Notebook,4,Windows 10,1.8,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,97644.0
+Asus,Notebook,4,Windows 10,1.5,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,90376.0
+Acer,Notebook,8,Linux,2.4,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,267336.0
+HP,Gaming,8,Windows 10,3.35,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,376356.0
+Lenovo,Notebook,4,No OS,1.85,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,127506.0
+Asus,Gaming,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,522980.0
+Lenovo,Notebook,8,Windows 10,1.5,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,347284.0
+Asus,Ultrabook,16,Windows 10,1.1,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,552652.0
+Lenovo,Ultrabook,8,Windows 10,1.13,Standard,2560,1440,No,Yes,No,Intel,2.7,0,SSD,No,Intel,721112.0
+Lenovo,Notebook,4,Windows 10,1.5,Full HD,1920,1080,No,Yes,No,Intel,2.4,0,SSD,No,Intel,173484.0
+Dell,Workstation,8,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,2.6,0,HDD,No,AMD,432604.0
+Dell,Workstation,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,674660.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.42,Standard,2560,1440,Yes,No,No,Intel,2.7,0,SSD,No,Intel,792844.0
+Asus,Gaming,8,Windows 10,3.0,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,328324.0
+Asus,Gaming,16,Windows 10,3.0,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,502756.0
+Acer,Notebook,12,Windows 10,2.2,Standard,1366,768,No,Yes,No,Intel,1.6,0,HDD,No,Nvidia,219301.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,426284.0
+Dell,Notebook,8,Linux,2.33,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,246123.0
+HP,Ultrabook,4,Windows 10,1.91,Full HD,1920,1080,No,No,No,AMD,3.0,0,SSD,No,AMD,157684.0
+Lenovo,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,AMD,388541.0
+Lenovo,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,296408.0
+Dell,Workstation,8,Windows 10,1.78,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.8,0,SSD,No,Nvidia,856992.0
+Lenovo,Ultrabook,16,Windows 10,1.13,Standard,2560,1440,No,Yes,No,Intel,2.7,0,SSD,No,Intel,829500.0
+Lenovo,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,96696.0
+Asus,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,483164.0
+Lenovo,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,Yes,No,Intel,1.6,1024,SSD,HDD,AMD,361662.0
+Acer,Notebook,8,Linux,2.5,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,277764.0
+MSI,Gaming,16,Windows 10,2.8,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,710684.0
+Asus,Ultrabook,8,Windows 10,1.1,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,591868.0
+Toshiba,Ultrabook,16,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,552052.0
+Dell,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,530880.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,129244.0
+Lenovo,Notebook,2,Windows 10,1.15,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,96206.0
+Lenovo,Workstation,8,Windows 10,2.67,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,608300.0
+Lenovo,Ultrabook,8,Windows 10,1.7,Full HD,2560,1440,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,613988.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,AMD,148204.0
+Acer,2 in 1 Convertible,8,Windows 10,1.6,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,249327.0
+Asus,2 in 1 Convertible,8,Windows 10,1.27,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,293248.0
+Dell,Notebook,4,Linux,2.3,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,189252.0
+Dell,Notebook,4,Windows 10,1.65,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,217724.0
+HP,Ultrabook,8,Windows 10,1.43,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,474000.0
+Dell,Notebook,8,Windows 10,2.14,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,170624.0
+Lenovo,Ultrabook,8,Windows 10,1.75,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,AMD,384060.0
+Lenovo,2 in 1 Convertible,16,Windows 10,2.0,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,2.8,0,SSD,No,Nvidia,600084.0
+Chuwi,Notebook,6,Windows 10,1.4,Standard,2736,1824,No,Yes,Yes,Intel,1.1,0,Flash Storage,No,Intel,141884.0
+HP,Notebook,8,Windows 10,2.31,Full HD,1920,1080,No,No,No,Intel,2.9,0,SSD,No,Intel,450932.0
+Asus,Notebook,8,Linux,2.3,Full HD,1920,1080,No,No,No,Intel,2.4,0,HDD,No,Nvidia,188652.0
+Dell,Gaming,16,Windows 10,4.42,Standard,2560,1440,No,Yes,No,Intel,2.9,1024,SSD,HDD,Nvidia,884484.0
+Dell,Gaming,8,Windows 10,2.62,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,366244.0
+Dell,Notebook,8,Windows 10,2.02,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,360998.0
+Dell,Ultrabook,8,Linux,1.6,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,347284.0
+HP,Gaming,12,Windows 10,3.35,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,631684.0
+Mediacom,2 in 1 Convertible,4,Windows 10,1.16,Full HD,1920,1080,Yes,Yes,No,Intel,1.1,0,SSD,No,Intel,94484.0
+Samsung,Netbook,4,Chrome OS,1.15,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,85004.0
+Lenovo,Notebook,8,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,319160.0
+Lenovo,Notebook,4,Windows 10,1.7,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,189284.0
+Lenovo,Workstation,16,Windows 10,2.3,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,772620.0
+Lenovo,Notebook,16,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.9,0,SSD,No,Nvidia,773884.0
+Asus,Gaming,8,Windows 10,3.2,Full HD,1920,1080,No,No,No,AMD,3.2,1024,SSD,HDD,AMD,535620.0
+HP,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,109652.0
+Google,Ultrabook,16,Chrome OS,1.1,Standard,2400,1600,Yes,No,No,Intel,1.3,0,SSD,No,Intel,694884.0
+Lenovo,Ultrabook,24,Windows 10,1.32,Standard,2560,1440,No,No,No,Intel,2.7,0,SSD,No,Intel,752712.0
+Asus,Notebook,4,Linux,2.0,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,176644.0
+Lenovo,Notebook,8,Windows 10,2.8,Standard,1600,900,No,No,No,AMD,2.5,0,HDD,No,AMD,164004.0
+Dell,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,AMD,236684.0
+Lenovo,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,451564.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.1,0,SSD,No,Intel,110284.0
+HP,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,347284.0
+Dell,Notebook,8,Windows 10,1.64,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,372564.0
+Acer,Notebook,4,Linux,2.4,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,139609.0
+Dell,Workstation,8,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,3.0,1024,Flash Storage,HDD,Nvidia,629788.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,324766.0
+Microsoft,Ultrabook,16,Windows 10 S,1.25,Standard,2256,1504,Yes,No,No,Intel,2.5,0,SSD,No,Intel,818124.0
+HP,Notebook,8,Windows 10,1.91,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,186124.0
+Dell,Workstation,16,Windows 10,2.17,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,624100.0
+HP,Workstation,8,Windows 10,2.31,Full HD,1920,1080,No,Yes,No,Intel,2.9,0,SSD,No,Intel,484744.0
+Lenovo,Notebook,8,Windows 10,1.65,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,425020.0
+Dell,Notebook,8,Windows 10,2.36,Full HD,1920,1080,No,No,No,Intel,1.8,1024,SSD,HDD,AMD,309364.0
+Dell,2 in 1 Convertible,4,Windows 10,1.47,Standard,1366,768,Yes,No,No,Intel,1.6,0,HDD,No,Intel,151364.0
+Dell,Notebook,8,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,HDD,No,Nvidia,646536.0
+Microsoft,Ultrabook,4,Windows 10 S,1.252,Standard,2256,1504,Yes,No,No,Intel,2.2,0,SSD,No,Intel,312524.0
+Microsoft,Ultrabook,8,Windows 10 S,1.25,Standard,2256,1504,Yes,No,No,Intel,2.5,0,SSD,No,Intel,568484.0
+HP,Notebook,8,Windows 10,2.5,Standard,1600,900,No,No,No,Intel,2.0,0,SSD,No,Intel,202208.0
+Acer,Notebook,4,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Nvidia,171904.0
+Acer,Netbook,4,Windows 10,1.4,Standard,1366,768,No,No,No,Intel,1.6,0,SSD,No,Intel,137460.0
+Asus,Notebook,8,Windows 10,2.37,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,236684.0
+Lenovo,Notebook,8,No OS,1.5,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,AMD,252484.0
+Lenovo,Notebook,8,Windows 10,2.67,Full HD,1920,1080,No,No,No,Intel,2.9,0,SSD,No,Nvidia,660440.0
+Asus,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,96064.0
+Acer,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Nvidia,148204.0
+Dell,Notebook,8,Windows 10,2.02,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,AMD,239844.0
+HP,Gaming,12,Windows 10,3.78,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,HDD,No,Nvidia,536884.0
+Lenovo,Ultrabook,12,Windows 10,1.4,Quad HD+,2560,1440,No,Yes,No,Intel,2.6,0,SSD,No,Intel,587128.0
+HP,2 in 1 Convertible,8,Windows 10,1.29,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,631684.0
+HP,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,AMD,364664.0
+Google,Ultrabook,8,Chrome OS,1.1,Standard,2400,1600,Yes,No,No,Intel,1.2,0,SSD,No,Intel,402900.0
+Dell,Ultrabook,8,Windows 10,1.42,Full HD,1920,1080,Yes,No,No,Intel,1.6,0,SSD,No,Intel,582025.0
+Asus,Notebook,12,Windows 10,2.06,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.6,1024,SSD,HDD,Intel,410484.0
+Dell,Notebook,8,Windows 10,1.79,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,233840.0
+Dell,Workstation,8,Windows 10,1.78,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,760928.0
+Lenovo,Notebook,8,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,431024.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,AMD,213300.0
+Toshiba,Notebook,8,Windows 10,1.05,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,528352.0
+Dell,Notebook,8,Windows 10,2.16,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Nvidia,398792.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,185366.0
+HP,Notebook,4,Windows 10,1.49,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,229416.0
+Chuwi,Notebook,4,Windows 10,1.89,Full HD,1920,1080,No,No,No,Intel,1.44,0,Flash Storage,No,Intel,78652.0
+Lenovo,Notebook,4,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,178540.0
+Lenovo,Notebook,8,Windows 10,1.75,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,Intel,331484.0
+Dell,Workstation,16,Windows 10,2.17,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,738808.0
+Dell,Notebook,16,Windows 10,2.06,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,600084.0
+Lenovo,Ultrabook,16,Windows 10,1.36,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,568168.0
+Asus,Ultrabook,16,Windows 10,0.91,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,616200.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,319789.0
+Toshiba,Ultrabook,32,Windows 10,1.05,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,884484.0
+Asus,Gaming,8,Windows 10,1.99,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,426600.0
+Acer,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,AMD,2.5,0,HDD,No,AMD,182964.0
+Asus,Gaming,24,Windows 10,4.33,Full HD,1920,1080,Yes,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,401004.0
+Lenovo,Ultrabook,8,Windows 10,1.3,Standard,1366,768,No,Yes,No,Intel,2.3,0,SSD,No,Intel,347284.0
+Lenovo,Notebook,8,Windows 10,2.17,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,284052.0
+HP,Notebook,8,Windows 10,1.48,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,552684.0
+Lenovo,Notebook,8,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,2.4,0,SSD,No,Intel,299884.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,287876.0
+Asus,Netbook,4,Windows 10 S,1.2,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,107440.0
+HP,Notebook,8,Windows 10,1.91,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,AMD,195601.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.4,Full HD,1920,1080,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,505284.0
+Lenovo,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,94484.0
+Lenovo,Netbook,4,Chrome OS,1.25,Standard,1366,768,No,No,No,Intel,1.6,0,SSD,No,Intel,83740.0
+Lenovo,Notebook,8,Windows 10,1.44,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,299884.0
+Asus,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Intel,386784.0
+Acer,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,HDD,No,Nvidia,193708.0
+HP,Ultrabook,8,Windows 10,1.34,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,418068.0
+Lenovo,Gaming,8,No OS,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,363084.0
+Dell,Ultrabook,8,Windows 10,1.29,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,284084.0
+Acer,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,201924.0
+Dell,Notebook,8,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,264176.0
+Dell,Notebook,16,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,385280.0
+Xiaomi,Notebook,16,No OS,1.95,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Nvidia,442384.0
+Asus,Netbook,2,Windows 10,1.1,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,77420.0
+HP,Notebook,4,Windows 10,2.04,Standard,1366,768,Yes,No,No,Intel,1.6,0,HDD,No,Intel,164785.0
+Asus,Gaming,24,Windows 10,2.24,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,937888.0
+HP,Notebook,8,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,280924.0
+Asus,Gaming,16,Windows 10,3.0,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,475264.0
+Lenovo,Gaming,8,Windows 10,3.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,442084.0
+HP,Ultrabook,8,Windows 10,1.32,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,442084.0
+Dell,Notebook,8,Windows 10,1.64,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,404395.0
+HP,Notebook,4,Windows 10,1.63,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,217724.0
+Dell,Notebook,8,Linux,2.8,Full HD,1920,1080,No,Yes,No,Intel,1.6,1024,SSD,HDD,AMD,280924.0
+Lenovo,Notebook,8,Windows 7,2.02,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,423440.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,252484.0
+Lenovo,Notebook,8,No OS,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Nvidia,145044.0
+Dell,Notebook,4,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,AMD,184860.0
+Dell,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,435132.0
+Dell,Gaming,16,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,952035.0
+Toshiba,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,Intel,271760.0
+Asus,Notebook,8,Windows 10,2.0,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.7,1024,SSD,HDD,Nvidia,410484.0
+Mediacom,Notebook,4,Windows 10,1.2,Full HD,1920,1080,No,Yes,No,Intel,1.1,0,SSD,No,Intel,116604.0
+Asus,Gaming,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.5,1024,SSD,HDD,Nvidia,521084.0
+Dell,Notebook,8,Windows 10,1.93,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,432604.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,AMD,251982.0
+HP,Notebook,4,Windows 10,1.86,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,126081.0
+HP,Gaming,12,Windows 10,2.62,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,568484.0
+Lenovo,Notebook,8,Windows 10,1.87,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,271444.0
+Dell,Ultrabook,8,Windows 10,1.2,Quad HD+,3200,1800,Yes,No,No,Intel,1.8,0,SSD,No,Intel,442084.0
+Dell,Notebook,4,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,232535.0
+HP,Ultrabook,8,Windows 10,1.34,Quad HD+,3200,1800,No,Yes,No,Intel,2.7,0,SSD,No,Intel,361820.0
+Acer,Gaming,8,Linux,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,252168.0
+Asus,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,AMD,1.8,0,HDD,No,AMD,110284.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,222938.0
+Lenovo,Notebook,4,Windows 10,1.87,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,248060.0
+Lenovo,Notebook,4,No OS,2.15,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,146103.0
+HP,Notebook,4,Windows 10,1.86,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,125452.0
+Lenovo,Notebook,8,Windows 10,1.99,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,546364.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,157684.0
+Dell,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,352969.0
+Dell,Gaming,16,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,852884.0
+HP,Notebook,8,Windows 10,2.65,Standard,1600,900,No,No,No,Intel,2.0,0,HDD,No,Intel,171951.0
+HP,Notebook,8,Windows 10,2.63,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,404480.0
+Asus,Notebook,4,Linux,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,70784.0
+Mediacom,Notebook,4,Windows 10,1.35,Full HD,1920,1080,No,Yes,No,Intel,1.44,0,Flash Storage,No,Intel,80580.0
+Lenovo,Notebook,6,Windows 10,2.8,Standard,1600,900,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,299884.0
+HP,Notebook,6,Windows 10,1.91,Full HD,1920,1080,No,Yes,No,AMD,2.5,0,SSD,No,AMD,179772.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,195256.0
+Acer,2 in 1 Convertible,4,Windows 10,1.25,Full HD,1920,1080,Yes,Yes,No,Intel,2.0,0,Flash Storage,No,Intel,110284.0
+Lenovo,Notebook,4,Windows 10,2.05,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,199080.0
+HP,Ultrabook,16,Windows 10,1.16,Quad HD+,3200,1800,Yes,Yes,No,Intel,1.2,0,SSD,No,Intel,620940.0
+Lenovo,Notebook,8,Windows 10,3.4,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,947684.0
+Asus,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,265124.0
+Dell,Ultrabook,8,Windows 10,1.21,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,505284.0
+Dell,Notebook,4,Windows 10,1.93,Standard,1366,768,No,No,No,Intel,2.6,0,HDD,No,Intel,303044.0
+Fujitsu,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,233524.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.1,0,HDD,No,Intel,108704.0
+Lenovo,Notebook,4,Windows 10,2.02,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,312840.0
+HP,Workstation,8,Windows 10,3.14,Standard,1600,900,No,No,No,Intel,2.8,0,HDD,No,Nvidia,588073.0
+HP,Notebook,8,Windows 10,1.94,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,122924.0
+HP,Notebook,6,Windows 10,1.95,Full HD,1920,1080,No,Yes,No,AMD,3.0,0,SSD,No,AMD,205084.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,262280.0
+Lenovo,Notebook,4,Windows 10,2.05,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,Intel,216460.0
+Mediacom,Notebook,4,Windows 10,1.4,Full HD,1920,1080,No,No,No,Intel,1.44,0,SSD,No,Intel,78684.0
+Toshiba,Ultrabook,16,Windows 10,1.24,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,589340.0
+Lenovo,Gaming,32,Windows 10,4.6,Full HD,1920,1080,No,Yes,No,Intel,2.7,1024,SSD,HDD,Nvidia,841508.0
+MSI,Gaming,16,Windows 10,4.14,Full HD,1920,1080,No,No,No,Intel,2.9,1024,SSD,HDD,Nvidia,862364.0
+Dell,Notebook,8,Linux,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,236687.0
+Mediacom,Notebook,4,Windows 10,1.45,Full HD,1920,1080,No,Yes,No,Intel,1.1,0,SSD,No,Intel,122924.0
+Dell,Notebook,8,Windows 10,1.9,Standard,1366,768,No,No,No,Intel,2.6,0,HDD,No,Intel,318692.0
+HP,Notebook,4,Windows 10,1.49,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,227204.0
+Dell,Notebook,16,Windows 10,1.93,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,485815.0
+Dell,Netbook,4,Chrome OS,1.26,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,93220.0
+MSI,Gaming,16,Windows 10,4.5,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,742284.0
+HP,Gaming,16,Windows 10,3.78,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,473368.0
+Lenovo,Ultrabook,12,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Intel,528668.0
+Lenovo,Notebook,12,Windows 10,2.2,Standard,1366,768,Yes,No,No,Intel,1.8,0,HDD,No,Intel,192444.0
+Asus,Gaming,8,Windows 10,2.73,Full HD,1920,1080,No,Yes,No,Intel,2.5,1024,SSD,HDD,Nvidia,559320.0
+Asus,2 in 1 Convertible,8,Windows 10,2.2,Standard,1366,768,Yes,No,No,Intel,2.5,0,HDD,No,Intel,233524.0
+Lenovo,Notebook,12,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,3.6,0,SSD,No,AMD,299884.0
+Dell,2 in 1 Convertible,4,Windows 10,1.39,Standard,1366,768,Yes,No,No,Intel,1.0,0,SSD,No,Intel,190548.0
+Samsung,Notebook,16,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,536884.0
+Lenovo,Notebook,4,No OS,2.8,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,167164.0
+Lenovo,Notebook,8,Windows 10,2.29,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,145044.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,639900.0
+Lenovo,Notebook,8,Windows 10,1.7,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,465784.0
+Dell,2 in 1 Convertible,8,Windows 10,1.34,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,527720.0
+Dell,Workstation,8,Windows 10,2.06,Full HD,1920,1080,Yes,No,No,Intel,2.8,0,SSD,No,Nvidia,557108.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,385204.0
+HP,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,211240.0
+Acer,Notebook,4,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,103964.0
+MSI,Gaming,16,Windows 10,4.14,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,694884.0
+Dell,Notebook,4,Linux,2.18,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,146940.0
+MSI,Gaming,16,Windows 10,1.8,4K Ultra HD,3840,2160,No,No,No,Intel,2.8,2048,SSD,HDD,Nvidia,726484.0
+Toshiba,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,442084.0
+Lenovo,Notebook,6,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,178224.0
+Lenovo,2 in 1 Convertible,8,Windows 10,2.0,Full HD,1920,1080,Yes,Yes,No,Intel,2.8,0,SSD,No,Intel,410484.0
+Acer,Notebook,4,Windows 10,1.6,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,110284.0
+Lenovo,Notebook,32,Windows 10,2.5,4K Ultra HD,3840,2160,No,Yes,No,Intel,3.1,0,SSD,No,Nvidia,1548084.0
+Dell,Gaming,16,Windows 10,2.59,Full HD,1920,1080,No,No,No,Intel,2.6,0,HDD,No,Nvidia,277767.0
+Dell,Notebook,4,Linux,2.18,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,140272.0
+Dell,Notebook,4,Linux,2.25,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,113444.0
+Dell,Notebook,4,Linux,1.93,Standard,1366,768,No,No,No,Intel,2.6,0,HDD,No,Intel,274604.0
+Asus,Gaming,8,Windows 10,3.0,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,369088.0
+Dell,Notebook,4,Linux,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,179804.0
+HP,Ultrabook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,438924.0
+MSI,Gaming,16,Windows 10,2.94,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,716644.0
+Acer,2 in 1 Convertible,4,Chrome OS,1.25,Standard,1366,768,Yes,Yes,No,Intel,1.6,0,Flash Storage,No,Intel,119764.0
+HP,Notebook,8,Windows 10,2.31,Standard,1366,768,No,No,No,Intel,2.6,0,SSD,No,Intel,355184.0
+Lenovo,Notebook,8,Windows 7,1.65,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,462940.0
+Dell,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,HDD,No,AMD,245216.0
+Fujitsu,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,252484.0
+HP,Notebook,4,Windows 7,1.88,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,294512.0
+Lenovo,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,284084.0
+Mediacom,Notebook,2,Windows 10,1.4,Full HD,1920,1080,No,No,No,Intel,1.44,0,Flash Storage,No,Intel,75524.0
+Lenovo,Notebook,4,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,147888.0
+Asus,2 in 1 Convertible,6,Windows 10,1.5,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,HDD,No,Intel,201927.0
+Dell,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,575120.0
+Asus,Ultrabook,16,Windows 10,1.1,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,600400.0
+Dell,Gaming,16,Windows 10,2.62,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,467364.0
+Lenovo,Notebook,4,Windows 10,1.8,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,261964.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Nvidia,182964.0
+Asus,Notebook,8,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,126084.0
+Asus,Notebook,8,Windows 10,1.99,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,286492.0
+Dell,Ultrabook,8,Windows 10,1.23,Quad HD+,3200,1800,Yes,No,No,Intel,1.6,0,SSD,No,Intel,590604.0
+Lenovo,Notebook,2,Windows 10,1.42,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,78684.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,555345.0
+Dell,Notebook,16,Windows 10,2.06,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.8,0,SSD,No,Nvidia,758084.0
+Lenovo,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,350444.0
+HP,Notebook,8,Windows 10,2.6,Standard,1600,900,No,No,No,AMD,3.0,0,HDD,No,AMD,164604.0
+Lenovo,Ultrabook,16,Windows 10,1.14,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,774200.0
+Asus,Gaming,8,No OS,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,HDD,No,Nvidia,369404.0
+Acer,Notebook,4,Windows 10,2.4,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,142200.0
+Lenovo,Notebook,4,Windows 10,1.43,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,86584.0
+Acer,Ultrabook,8,Windows 10,1.8,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,290404.0
+Razer,Gaming,16,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,821284.0
+Toshiba,Notebook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,383308.0
+Lenovo,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,500544.0
+Asus,Gaming,32,Windows 10,3.8,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,884484.0
+Acer,Gaming,8,Linux,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,224044.0
+Dell,Ultrabook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,1.6,0,SSD,No,Intel,458168.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,376609.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,115308.0
+Toshiba,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,Intel,336224.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,AMD,290404.0
+Dell,Notebook,16,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.8,2048,SSD,HDD,AMD,358660.0
+Lenovo,Gaming,8,Windows 10,3.31,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,377936.0
+Dell,Gaming,32,Windows 10,4.42,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,994569.0
+Dell,Notebook,8,Windows 10,1.56,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,388364.0
+Lenovo,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,132404.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,169060.0
+HP,Notebook,6,Windows 10,2.04,Standard,1920,1080,No,No,No,Intel,2.0,0,HDD,No,AMD,170324.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,469819.0
+Toshiba,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.1,0,SSD,No,Intel,157368.0
+Dell,Notebook,8,Windows 10,2.06,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,301780.0
+HP,Notebook,8,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,AMD,235420.0
+Toshiba,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,397528.0
+Acer,Notebook,4,Linux,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,130192.0
+Microsoft,Ultrabook,8,Windows 10 S,1.252,Standard,2256,1504,Yes,No,No,Intel,2.8,0,SSD,No,Intel,590241.0
+Lenovo,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,AMD,258472.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.3,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,326744.0
+Lenovo,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,AMD,2.2,0,SSD,No,AMD,110284.0
+HP,2 in 1 Convertible,4,Windows 10,1.63,Full HD,1920,1080,Yes,Yes,No,Intel,2.4,0,SSD,No,Nvidia,220884.0
+MSI,Gaming,16,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,408904.0
+Asus,Ultrabook,8,Windows 10,1.1,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,358660.0
+HP,2 in 1 Convertible,8,Chrome OS,1.4,Standard,1366,768,Yes,No,No,Intel,1.1,0,Flash Storage,No,Intel,156420.0
+LG,Ultrabook,8,Windows 10,1.09,Full HD,1920,1080,No,Yes,No,Intel,1.8,0,SSD,No,Intel,726484.0
+Acer,Gaming,16,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,410484.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,315336.0
+Asus,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,Intel,1.1,0,SSD,No,Intel,132404.0
+Dell,Gaming,16,Windows 10,3.21,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,648116.0
+HP,Notebook,4,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.0,0,SSD,No,AMD,220884.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.19,Full HD,1920,1080,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,473684.0
+Dell,Gaming,16,Windows 10,3.49,Full HD,1920,1080,No,No,No,Intel,2.9,1024,SSD,HDD,Nvidia,889145.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,193585.0
+Dell,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,172432.0
+HP,Notebook,6,Windows 10,2.65,Full HD,1920,1080,No,Yes,No,AMD,2.4,0,HDD,No,AMD,179804.0
+Lenovo,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,100488.0
+Acer,Notebook,4,Chrome OS,1.45,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,118500.0
+Lenovo,Notebook,4,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,220884.0
+HP,Workstation,8,Windows 10,3.14,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,602925.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.42,Standard,2560,1440,Yes,No,No,Intel,2.7,0,SSD,No,Intel,818440.0
+Toshiba,Notebook,8,Windows 10,1.5,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,307468.0
+Acer,Netbook,4,Windows 10,1.4,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,85004.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.38,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,552684.0
+Asus,2 in 1 Convertible,4,Chrome OS,1.2,Full HD,1920,1080,Yes,No,No,Intel,0.9,0,Flash Storage,No,Intel,211404.0
+Toshiba,Ultrabook,16,Windows 10,1.36,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,593132.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,HDD,No,AMD,217724.0
+Dell,Gaming,8,Windows 10,2.56,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,258804.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,2.9,0,SSD,No,AMD,126084.0
+Lenovo,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,AMD,3.6,0,HDD,No,AMD,135564.0
+Lenovo,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.5,1024,HDD,HDD,Intel,196378.0
+Lenovo,Notebook,4,No OS,1.9,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,142200.0
+Dell,Notebook,8,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,251220.0
+Acer,2 in 1 Convertible,8,Windows 10,1.6,Full HD,1920,1080,Yes,Yes,No,Intel,1.6,0,SSD,No,Intel,315684.0
+Lenovo,Workstation,16,Windows 7,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,586180.0
+Lenovo,Notebook,8,Windows 10,1.8,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,376356.0
+HP,Notebook,6,Windows 10,2.71,Full HD,1920,1080,No,Yes,No,AMD,2.5,0,HDD,No,AMD,206983.0
+Lenovo,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,394684.0
+Dell,Notebook,8,Linux,1.64,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,344124.0
+Dell,Notebook,8,Linux,1.98,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,229416.0
+Asus,Notebook,4,Windows 10,1.5,Full HD,1920,1080,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,94168.0
+Dell,Notebook,16,Windows 10,1.93,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,450825.0
+Lenovo,Notebook,8,Windows 10,1.87,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,270834.0
+Dell,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,372564.0
+Lenovo,Notebook,4,Windows 10,2.19,Standard,1366,768,No,No,No,AMD,2.0,0,HDD,No,AMD,94168.0
+Mediacom,Notebook,4,Windows 10,1.4,Full HD,1920,1200,No,Yes,No,Intel,1.92,0,HDD,No,Intel,83740.0
+HP,Notebook,8,Windows 10,2.63,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,379200.0
+Lenovo,Ultrabook,8,Windows 10,1.17,Quad HD+,2560,1440,No,Yes,No,Intel,2.5,0,SSD,No,Intel,532978.0
+HP,2 in 1 Convertible,8,Windows 10,1.58,Standard,1366,768,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,264366.0
+Lenovo,Ultrabook,8,Windows 10,1.32,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,473684.0
+Dell,Gaming,32,Windows 10,4.36,4K Ultra HD,3840,2160,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,1156370.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,426120.0
+Lenovo,Notebook,4,No OS,1.9,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,154808.0
+Dell,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,1.6,1024,SSD,HDD,AMD,227204.0
+Dell,2 in 1 Convertible,4,Windows 10,1.71,Full HD,1920,1080,Yes,No,No,Intel,2.4,0,HDD,No,Intel,205084.0
+Dell,Notebook,8,Linux,2.32,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,186288.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,AMD,3.0,0,HDD,No,AMD,154524.0
+Acer,Gaming,16,Windows 10,4.2,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,611460.0
+Dell,Notebook,12,Windows 10,2.25,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,205084.0
+HP,Notebook,6,Windows 10,2.1,Full HD,1920,1080,No,No,No,AMD,3.0,1024,SSD,HDD,AMD,205400.0
+Acer,Notebook,4,Windows 10,2.4,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,176644.0
+Lenovo,Notebook,8,Windows 10,1.44,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,303360.0
+Lenovo,Notebook,4,Windows 10,1.85,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Intel,246164.0
+HP,Workstation,16,Windows 10,2.6,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,764404.0
+Dell,2 in 1 Convertible,8,Windows 10,1.55,Full HD,1920,1080,Yes,No,No,Intel,1.6,0,HDD,No,Intel,208244.0
+MSI,Gaming,16,Windows 10,1.8,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,661856.0
+Acer,Notebook,4,Windows 10,2.4,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,129813.0
+Dell,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,381412.0
+Dell,Notebook,8,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,210140.0
+Toshiba,Notebook,8,Windows 10,1.25,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,485060.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.7,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,315684.0
+Lenovo,Workstation,16,Windows 10,2.5,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,1042484.0
+Acer,Notebook,2,Chrome OS,1.68,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,104280.0
+Samsung,Ultrabook,16,Windows 10,0.81,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,521084.0
+HP,Notebook,8,Windows 10,1.86,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,Intel,170324.0
+Dell,Notebook,8,Windows 10,1.6,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,356040.0
+HP,Workstation,16,Windows 7,3.0,Full HD,1920,1080,No,Yes,No,Intel,2.9,0,SSD,No,Nvidia,1386924.0
+Lenovo,Netbook,4,Windows 10,1.4,Standard,1366,768,Yes,No,No,Intel,1.6,0,SSD,No,Intel,150100.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,600400.0
+Asus,Notebook,4,No OS,2.45,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Nvidia,182964.0
+Lenovo,Ultrabook,4,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,346336.0
+Asus,Notebook,4,Windows 10,2.37,Standard,1366,768,No,No,No,Intel,2.7,0,SSD,No,Intel,268568.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.3,Quad HD+,3200,1800,Yes,Yes,No,Intel,1.8,0,SSD,No,Intel,378884.0
+HP,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.5,1024,SSD,HDD,Nvidia,347284.0
+HP,Workstation,8,Windows 7,2.59,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Nvidia,493276.0
+Dell,Gaming,16,Windows 10,4.42,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,906601.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,189284.0
+Lenovo,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,331168.0
+Dell,Ultrabook,16,Windows 10,1.18,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,587444.0
+Google,Ultrabook,8,Chrome OS,1.1,Standard,2400,1600,Yes,No,No,Intel,1.2,0,SSD,No,Intel,492644.0
+Asus,Ultrabook,8,Windows 10,1.2,Quad HD+,3200,1800,No,Yes,No,Intel,2.5,0,SSD,No,Intel,356764.0
+Dell,Notebook,4,Windows 10,1.65,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,268284.0
+Acer,Notebook,4,Windows 10,1.6,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,206980.0
+Asus,Notebook,4,Windows 10,2.8,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Nvidia,148627.0
+Dell,Gaming,16,Windows 10,2.72,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,347284.0
+Samsung,Ultrabook,8,Windows 10,1.31,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,505284.0
+Acer,Notebook,4,Linux,2.1,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,94168.0
+Dell,Notebook,16,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,373281.0
+Samsung,2 in 1 Convertible,16,Windows 10,1.71,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,AMD,568484.0
+Toshiba,Notebook,4,Windows 10,1.75,Standard,1366,768,No,Yes,No,Intel,2.3,0,SSD,No,Intel,322320.0
+Dell,Gaming,8,Windows 10,2.62,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,347284.0
+HP,Ultrabook,4,Windows 10,1.26,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,393104.0
+Asus,2 in 1 Convertible,12,Windows 10,2.3,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,HDD,No,Nvidia,265124.0
+Lenovo,Notebook,16,Windows 7,2.5,4K Ultra HD,3840,2160,No,No,No,Intel,2.7,0,SSD,No,Nvidia,748920.0
+Acer,Notebook,4,Windows 10,1.8,Full HD,1920,1080,No,Yes,No,Intel,2.4,0,SSD,No,Intel,200976.0
+Razer,Gaming,16,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,916084.0
+Asus,Notebook,8,Windows 10,2.0,Standard,1920,1080,No,No,No,Intel,1.1,0,SSD,No,Intel,183880.0
+Dell,Gaming,32,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,1134061.0
+Asus,Gaming,16,Windows 10,4.3,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,742600.0
+Toshiba,Ultrabook,16,Windows 10,1.47,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Nvidia,557424.0
+Lenovo,Notebook,8,No OS,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,103964.0
+Lenovo,Ultrabook,16,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,726484.0
+MSI,Gaming,16,Windows 10,1.6,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,597556.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,344124.0
+Lenovo,Gaming,4,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,HDD,No,Nvidia,315684.0
+Acer,Gaming,16,Windows 10,4.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,726484.0
+Dell,Gaming,8,Windows 10,2.62,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,311260.0
+Asus,Gaming,8,Windows 10,2.24,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,423124.0
+Vero,Notebook,4,Windows 10,1.22,Standard,1920,1080,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,64116.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,622520.0
+Lenovo,2 in 1 Convertible,8,Windows 10,2.08,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,AMD,303044.0
+Apple,Ultrabook,8,Mac OS X,0.92,Standard,2304,1440,No,Yes,Yes,Intel,1.2,0,Flash Storage,No,Intel,368140.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.42,Standard,2560,1440,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,736280.0
+Asus,Notebook,4,Windows 10,1.63,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,94484.0
+Dell,Notebook,8,Windows 10,1.95,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,255960.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.38,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,426284.0
+Dell,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.0,0,SSD,No,AMD,233524.0
+HP,Workstation,8,Windows 10,3.14,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,652508.0
+Asus,Notebook,8,Windows 10,2.37,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,347284.0
+Dell,Ultrabook,8,Windows 10,1.29,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,473684.0
+Dell,Notebook,8,Windows 10,2.06,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.5,0,SSD,No,Nvidia,552684.0
+Dell,Netbook,4,Windows 10,1.63,Standard,1366,768,No,No,No,Intel,1.1,0,SSD,No,Intel,235104.0
+HP,Netbook,8,Windows 10,1.26,Standard,1366,768,No,No,No,Intel,2.6,0,SSD,No,Intel,438924.0
+Toshiba,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,246480.0
+HP,Notebook,8,Windows 10,2.04,Standard,1366,768,No,No,No,AMD,2.5,0,HDD,No,AMD,198764.0
+Dell,Gaming,16,Windows 10,2.62,4K Ultra HD,3840,2160,No,No,No,Intel,2.8,0,SSD,No,Nvidia,530564.0
+Lenovo,Notebook,4,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,192444.0
+HP,Gaming,12,Windows 10,3.74,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,HDD,No,AMD,552684.0
+MSI,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,763140.0
+Samsung,Ultrabook,8,Windows 10,0.81,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,473684.0
+Dell,Notebook,8,Windows 10,1.98,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,303676.0
+Dell,Notebook,8,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,249580.0
+Lenovo,Ultrabook,8,Windows 10,1.32,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,587444.0
+Razer,Ultrabook,16,Windows 10,1.29,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,568484.0
+HP,Netbook,4,Chrome OS,1.23,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,121660.0
+Dell,Gaming,16,Windows 10,4.36,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,791586.0
+Dell,Notebook,4,Windows 10,1.76,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,238580.0
+Lenovo,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,154808.0
+Toshiba,Ultrabook,4,Windows 10,1.25,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,344440.0
+Lenovo,Ultrabook,8,Windows 10,1.13,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,789684.0
+MSI,Gaming,8,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,378884.0
+Lenovo,Ultrabook,8,Windows 10,1.13,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,Flash Storage,No,Intel,592500.0
+Toshiba,Notebook,4,Windows 10,1.75,Standard,1366,768,No,No,No,Intel,2.1,0,SSD,No,Intel,157684.0
+Asus,2 in 1 Convertible,8,Windows 10,1.1,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,429128.0
+Dell,Notebook,4,Windows 10,1.76,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,184860.0
+Acer,Netbook,4,Chrome OS,1.35,Standard,1366,768,No,Yes,No,Intel,1.6,0,Flash Storage,No,Intel,112180.0
+Acer,Notebook,8,Windows 10,1.5,Full HD,1920,1080,No,Yes,No,Intel,2.4,0,SSD,No,Intel,195604.0
+Razer,Gaming,32,Windows 10,3.49,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.9,0,SSD,No,Nvidia,1737684.0
+Lenovo,Ultrabook,16,Windows 10,1.1,Quad HD+,2560,1440,No,Yes,No,Intel,2.6,0,SSD,No,Intel,663284.0
+Asus,Notebook,4,Linux,2.1,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,164004.0
+Lenovo,Notebook,8,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,374776.0
+Lenovo,Notebook,8,Windows 10,1.32,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Intel,521400.0
+Dell,Gaming,16,Windows 10,3.21,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,876783.0
+Asus,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,764404.0
+Toshiba,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,211404.0
+Lenovo,Notebook,4,Chrome OS,1.5,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,102700.0
+Asus,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,186440.0
+Asus,Gaming,16,Windows 10,2.73,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,568484.0
+Dell,Gaming,32,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,971033.0
+HP,Notebook,8,Windows 10,2.63,Standard,1600,900,No,No,No,Intel,2.5,0,HDD,No,Nvidia,287560.0
+Dell,Notebook,8,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,225621.0
+HP,Ultrabook,8,Windows 7,1.54,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,590920.0
+Dell,Notebook,4,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,AMD,233524.0
+HP,2 in 1 Convertible,4,Chrome OS,1.4,Standard,1366,768,Yes,No,No,Intel,1.1,0,Flash Storage,No,Intel,194340.0
+Asus,Ultrabook,8,Windows 10,1.45,Full HD,1920,1080,No,Yes,No,Intel,2.3,0,SSD,No,Nvidia,324216.0
+HP,2 in 1 Convertible,8,Windows 10,1.28,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,719532.0
+HP,Ultrabook,8,Windows 10,1.54,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,463888.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,Intel,1.6,0,SSD,No,Intel,94484.0
+Asus,Gaming,16,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,600084.0
+Dell,Notebook,8,Linux,2.83,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,AMD,273340.0
+Lenovo,Ultrabook,8,Windows 10,1.96,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,SSD,No,Nvidia,601348.0
+Asus,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,248692.0
+Dell,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,298620.0
+Asus,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,141884.0
+HP,2 in 1 Convertible,8,Windows 10,1.28,Full HD,1920,1080,Yes,No,No,Intel,2.8,0,SSD,No,Intel,808644.0
+Dell,Notebook,8,Windows 10,1.62,Full HD,1920,1080,Yes,No,No,Intel,2.3,0,HDD,No,Intel,205084.0
+Lenovo,Notebook,4,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,148204.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,Intel,268809.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,AMD,426284.0
+Toshiba,Notebook,4,Windows 10,1.05,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,406060.0
+Lenovo,Gaming,8,No OS,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,Nvidia,321372.0
+Dell,Ultrabook,16,Windows 10,1.29,Quad HD+,3200,1800,Yes,No,No,Intel,2.5,0,SSD,No,Intel,707840.0
+HP,Notebook,4,Windows 10,2.07,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,287560.0
+Toshiba,Ultrabook,8,Windows 10,1.2,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,346020.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,616200.0
+Acer,Notebook,8,Windows 10,1.56,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,285032.0
+Dell,Workstation,8,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,561848.0
+Lenovo,Notebook,4,Windows 10,2.38,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,333380.0
+Lenovo,Notebook,4,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,AMD,151364.0
+Toshiba,Notebook,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,438608.0
+Lenovo,Notebook,4,Windows 10,1.44,Full HD,1920,1080,No,Yes,No,Intel,2.4,0,SSD,No,Intel,232260.0
+Samsung,Ultrabook,16,Windows 10,1.23,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,584284.0
+Dell,Ultrabook,8,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,534040.0
+Asus,Notebook,4,Linux,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,126081.0
+Xiaomi,Ultrabook,8,Windows 10,1.28,Full HD,1920,1080,No,Yes,No,Intel,2.3,0,SSD,No,Nvidia,295460.0
+Dell,Notebook,4,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,288350.0
+HP,Notebook,4,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,265124.0
+HP,2 in 1 Convertible,4,Windows 10,1.28,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,537200.0
+HP,2 in 1 Convertible,4,Windows 10,2.3,Standard,1366,768,Yes,No,No,Intel,2.5,0,HDD,No,Intel,216397.0
+Asus,Notebook,4,Windows 10,1.65,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,109968.0
+Lenovo,Notebook,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,Nvidia,211404.0
+Dell,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,116604.0
+HP,2 in 1 Convertible,4,Windows 10,1.28,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,568484.0
+Dell,Notebook,4,Linux,2.18,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,144001.0
+Asus,Gaming,12,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,432888.0
+Acer,Netbook,4,Chrome OS,1.25,Standard,1366,768,No,Yes,No,Intel,1.6,0,Flash Storage,No,Intel,93852.0
+Lenovo,Notebook,4,Windows 10,2.8,Standard,1600,900,No,No,No,AMD,2.2,0,HDD,No,AMD,119764.0
+HP,Notebook,4,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,399740.0
+HP,2 in 1 Convertible,16,Windows 10,1.42,Quad HD+,3200,1800,Yes,No,No,Intel,2.7,0,SSD,No,Intel,442084.0
+Samsung,Ultrabook,8,Windows 10,1.17,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,536884.0
+Lenovo,Ultrabook,8,Windows 10,1.32,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,568484.0
+MSI,Gaming,16,Windows 10,2.43,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.6,2048,SSD,HDD,Nvidia,837084.0
+Toshiba,Notebook,8,Windows 10,1.05,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,466100.0
+Dell,Gaming,8,Linux,2.62,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,293564.0
+HP,Notebook,8,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,284400.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,194024.0
+Dell,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,No,No,Intel,2.6,0,HDD,No,Intel,295460.0
+Dell,2 in 1 Convertible,8,Windows 10,1.24,Quad HD+,3200,1800,Yes,No,No,Intel,1.3,0,SSD,No,Intel,636140.0
+Asus,Gaming,32,Windows 10,3.58,Full HD,1920,1080,No,Yes,No,Intel,2.7,256,SSD,SSD,Nvidia,404164.0
+Dell,2 in 1 Convertible,16,Windows 10,1.22,Full HD,1920,1080,Yes,No,No,Intel,1.3,0,SSD,No,Intel,521084.0
+Lenovo,Ultrabook,8,Windows 10,1.13,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,Flash Storage,No,Intel,647484.0
+Lenovo,Notebook,8,Windows 10,1.95,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,620305.0
+LG,Ultrabook,16,Windows 10,1.08,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,663284.0
+HP,Netbook,8,Windows 10,1.26,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,468628.0
+Acer,Notebook,4,Chrome OS,2.2,Full HD,1920,1080,No,Yes,No,Intel,1.5,0,Flash Storage,No,Intel,113444.0
+Lenovo,Notebook,8,Windows 10,2.6,Full HD,1920,1080,No,Yes,No,Intel,2.3,1024,SSD,HDD,Nvidia,249324.0
+LG,Ultrabook,8,Windows 10,0.98,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,600084.0
+Dell,Notebook,8,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,380780.0
+HP,Ultrabook,8,Windows 10,1.09,4K Ultra HD,3840,2160,Yes,No,No,Intel,1.2,0,SSD,No,Intel,979600.0
+Lenovo,Notebook,6,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,249324.0
+HP,Notebook,8,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,322001.0
+Acer,Notebook,4,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.4,0,HDD,No,Intel,157684.0
+Lenovo,Notebook,4,Windows 10,1.44,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,278396.0
+HP,Notebook,8,Windows 10,1.49,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,303360.0
+MSI,Gaming,16,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,505284.0
+Dell,Gaming,16,Windows 10,2.6,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,426284.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,353892.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,216457.0
+HP,Ultrabook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,409849.0
+HP,Ultrabook,8,Windows 10,1.39,Quad HD+,3200,1800,Yes,No,No,Intel,2.7,0,SSD,No,Intel,363084.0
+Toshiba,Notebook,16,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Nvidia,624100.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.37,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,576700.0
+Dell,Notebook,4,Windows 10,1.95,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,230648.0
+Lenovo,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,521400.0
+HP,Notebook,8,Windows 10,2.31,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,368140.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,223747.0
+HP,Notebook,4,Windows 10,1.95,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,363084.0
+Lenovo,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,97644.0
+HP,Ultrabook,4,Windows 10,1.26,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,498964.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,91292.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.3,Quad HD+,3200,1800,Yes,Yes,No,Intel,2.2,0,SSD,No,Intel,568484.0
+Toshiba,Notebook,4,Windows 10,1.47,Full HD,1920,1080,No,Yes,No,Intel,2.3,0,SSD,No,Intel,349180.0
+HP,Netbook,8,Windows 10,1.26,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,527404.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,176518.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,378884.0
+Dell,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,517924.0
+Dell,Gaming,16,Windows 10,4.36,Standard,2560,1440,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,871528.0
+HP,Gaming,8,Windows 10,2.75,Full HD,1920,1080,No,Yes,No,Intel,2.3,1024,SSD,HDD,Nvidia,442084.0
+Asus,Notebook,4,Windows 10,2.8,Standard,1600,900,No,No,No,Intel,1.6,0,HDD,No,Nvidia,167480.0
+Acer,Notebook,4,Windows 10,2.23,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,195604.0
+Toshiba,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,353604.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.1,Full HD,1920,1080,Yes,Yes,No,Intel,1.2,0,SSD,No,Intel,410484.0
+Lenovo,Gaming,16,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,AMD,2.1,1024,SSD,HDD,AMD,315684.0
+Dell,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,465215.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,216460.0
+Dell,Notebook,4,Windows 10,2.36,Standard,1600,900,No,No,No,Intel,2.0,0,HDD,No,AMD,208244.0
+Acer,Notebook,4,Chrome OS,1.68,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,110284.0
+HP,Workstation,8,Windows 10,2.0,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,710684.0
+Dell,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Intel,560900.0
+Toshiba,Notebook,8,Windows 7,1.2,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,461360.0
+Asus,2 in 1 Convertible,8,Chrome OS,1.2,Full HD,1920,1080,No,No,No,Intel,1.2,0,Flash Storage,No,Intel,366244.0
+Lenovo,Ultrabook,8,Windows 10,1.7,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Intel,470521.0
+Dell,Gaming,16,Windows 10,4.36,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,996664.0
+Dell,2 in 1 Convertible,8,Windows 10,1.24,Full HD,1920,1080,Yes,No,No,Intel,1.2,0,SSD,No,Intel,600084.0
+HP,2 in 1 Convertible,4,Windows 10,1.45,Standard,1366,768,Yes,No,No,Intel,1.1,0,SSD,No,Intel,244900.0
+Dell,Ultrabook,8,Windows 10,1.3,Quad HD+,3200,1800,No,No,No,Intel,2.5,0,SSD,No,Intel,400688.0
+Acer,2 in 1 Convertible,4,Chrome OS,1.25,Standard,1366,768,Yes,Yes,No,Intel,1.6,0,Flash Storage,No,Intel,122924.0
+Toshiba,Notebook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,485060.0
+Lenovo,Ultrabook,8,Windows 10,1.36,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Intel,556160.0
+Acer,Notebook,12,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,318844.0
+Toshiba,Ultrabook,8,Windows 10,1.1,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,565640.0
+HP,Notebook,8,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Nvidia,267494.0
+Dell,Notebook,4,Linux,2.25,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,147136.0
+Dell,Notebook,4,Windows 10,1.9,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,260700.0
+HP,Notebook,4,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.4,0,HDD,No,Intel,216460.0
+Dell,Gaming,32,Windows 10,4.42,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,995084.0
+Lenovo,Notebook,6,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,219620.0
+Dell,2 in 1 Convertible,16,Windows 10,1.22,Quad HD+,3200,1800,Yes,No,No,Intel,1.3,0,SSD,No,Intel,600084.0
+Dell,Ultrabook,8,Windows 10,1.5,Standard,2560,1440,Yes,No,No,Intel,2.6,0,SSD,No,Intel,620302.0
+Dell,Gaming,32,Windows 10,4.42,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,884800.0
+Toshiba,Notebook,8,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,372880.0
+Asus,Gaming,16,Windows 10,2.73,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,647768.0
+HP,Notebook,8,Windows 10,2.04,Full HD,1920,1080,No,Yes,No,Intel,2.7,1024,SSD,HDD,Nvidia,309364.0
+Lenovo,Notebook,4,Windows 7,1.7,Standard,1366,768,No,No,No,Intel,2.3,0,Hybrid,No,Intel,316632.0
+Asus,2 in 1 Convertible,16,Windows 10,2.3,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.7,2048,SSD,HDD,Nvidia,568484.0
+HP,Notebook,6,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,Intel,182964.0
+Asus,Gaming,16,Windows 10,2.99,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,552684.0
+Dell,2 in 1 Convertible,12,Windows 10,2.19,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,410484.0
+Toshiba,Notebook,4,Windows 7,1.2,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,377620.0
+Lenovo,Notebook,6,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,3.6,0,SSD,No,AMD,173484.0
+Fujitsu,Notebook,4,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,205084.0
+Toshiba,Notebook,4,Windows 10,1.75,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,289140.0
+Dell,Notebook,4,Windows 10,2.25,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,189284.0
+HP,Notebook,8,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,254696.0
+Lenovo,Gaming,8,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,375724.0
+Dell,Notebook,8,Windows 10,2.36,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,AMD,236684.0
+Dell,Notebook,8,Windows 10,1.6,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,353604.0
+HP,Netbook,8,Windows 10,0.97,Full HD,1920,1080,No,No,No,Intel,1.2,0,SSD,No,Intel,602928.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.0,1024,SSD,HDD,AMD,157684.0
+Lenovo,Notebook,4,No OS,1.9,Standard,1366,768,No,No,No,Intel,1.1,0,SSD,No,Intel,85516.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,426284.0
+Dell,2 in 1 Convertible,8,Windows 10,1.68,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,280924.0
+Asus,Notebook,8,Windows 10,1.4,Quad HD+,3200,1800,No,No,No,Intel,2.5,0,SSD,No,Intel,363400.0
+HP,Ultrabook,8,Windows 10,1.11,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,426284.0
+Acer,Notebook,4,Windows 10,2.4,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,120080.0
+Asus,Gaming,16,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,568484.0
+HP,Ultrabook,8,Windows 10,1.48,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,660124.0
+Acer,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,398160.0
+HP,Notebook,8,Windows 10,1.34,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,375724.0
+Dell,Notebook,4,Windows 10,2.18,Standard,1366,768,No,No,No,Intel,2.4,0,SSD,No,Intel,172852.0
+HP,Notebook,4,Windows 10,1.64,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,246164.0
+Toshiba,Notebook,4,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,377620.0
+HP,Notebook,4,Windows 10,1.48,Standard,1366,768,No,No,No,Intel,2.4,0,SSD,No,Intel,347597.0
+HP,Notebook,4,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,380780.0
+HP,Ultrabook,8,Windows 7,1.43,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,457884.0
+HP,Notebook,8,Windows 10,1.64,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,331566.0
+HP,Notebook,4,Windows 10,1.64,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,216144.0
+Dell,Gaming,8,Windows 10,2.65,Full HD,1920,1080,No,No,No,Intel,2.5,0,Hybrid,No,Nvidia,299884.0
+HP,Ultrabook,4,Windows 10,1.26,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,486324.0
+HP,Notebook,4,Windows 10,1.48,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,502440.0
+HP,Ultrabook,8,Windows 10,1.54,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,596358.0
+HP,Notebook,4,Windows 10,1.49,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,252800.0
+Toshiba,Notebook,8,Windows 10,1.5,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,382360.0
+HP,Notebook,4,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,2.4,0,SSD,No,Intel,243317.0
+Lenovo,Notebook,16,Windows 7,2.4,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,937888.0
+Toshiba,Notebook,8,Windows 10,1.47,Full HD,1920,1080,No,Yes,No,Intel,2.3,0,SSD,No,Intel,470840.0
+HP,Notebook,8,Windows 10,1.43,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,704364.0
+Dell,2 in 1 Convertible,4,Windows 10,2.08,Full HD,1920,1080,Yes,Yes,No,Intel,2.3,0,HDD,No,Intel,251533.0
+Toshiba,Ultrabook,8,Windows 10,1.2,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,502440.0
+HP,Notebook,8,Windows 10,1.11,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,363084.0
+HP,Notebook,8,Windows 10,1.64,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,374596.0
+Dell,Notebook,8,Windows 10,2.09,Full HD,1920,1080,No,No,No,Intel,2.4,0,HDD,No,Intel,330675.0
+HP,Ultrabook,4,Windows 10,1.26,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,492644.0
+HP,Notebook,4,Windows 10,2.31,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,375724.0
+HP,Notebook,4,Windows 10,1.95,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,334960.0
+Dell,Ultrabook,8,Windows 10,1.29,Quad HD+,3200,1800,Yes,No,No,Intel,2.5,0,SSD,No,Intel,513184.0
+HP,Notebook,8,Windows 10,2.63,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,341280.0
+HP,Notebook,4,Windows 10,1.64,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,307468.0
+Acer,Notebook,6,Windows 10,2.1,Standard,1366,768,No,No,No,AMD,3.0,0,HDD,No,AMD,129244.0
+MSI,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,376609.0
+HP,Notebook,8,Windows 7,1.95,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,377620.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,388361.0
+HP,Ultrabook,8,Windows 10,1.26,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,426284.0
+HP,Notebook,4,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,234472.0
+Toshiba,Ultrabook,8,Windows 10,1.47,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Intel,545100.0
+Dell,Notebook,8,Windows 7,2.09,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,335892.0
+HP,Notebook,8,Windows 10,1.64,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,319321.0
+Lenovo,2 in 1 Convertible,4,Windows 10,1.8,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,267652.0
+Vero,Notebook,2,Windows 10,1.45,Standard,1366,768,No,No,No,Intel,1.44,0,Flash Storage,No,Intel,66613.0
+Toshiba,Notebook,16,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Nvidia,450300.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,331674.0
+HP,Notebook,4,Windows 10,1.54,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,316000.0
+HP,Notebook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.4,500,SSD,HDD,Intel,664655.0
+HP,Notebook,8,Windows 7,1.43,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,464204.0
+MSI,Gaming,16,Windows 10,3.78,Full HD,1920,1080,No,Yes,No,Intel,2.7,1024,SSD,HDD,Nvidia,488422.0
+Lenovo,Gaming,16,Windows 10,4.6,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,723637.0
+Asus,Netbook,4,Chrome OS,1.2,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,90976.0
+Lenovo,Notebook,16,Windows 7,1.1,Standard,2560,1440,No,Yes,No,Intel,2.6,0,SSD,No,Intel,827920.0
+HP,Notebook,8,Windows 10,1.91,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,HDD,No,Nvidia,309364.0
+Dell,2 in 1 Convertible,8,Windows 10,2.3,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,345704.0
+HP,Notebook,4,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,309364.0
+Dell,Ultrabook,16,Windows 10,1.2,Quad HD+,3200,1800,Yes,No,No,Intel,2.7,0,SSD,No,Intel,712264.0
+HP,Notebook,4,Windows 10,2.31,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,222827.0
+HP,Notebook,4,No OS,1.96,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,157684.0
+Acer,Notebook,8,Windows 10,2.4,Standard,1366,768,No,No,No,AMD,2.2,0,HDD,No,AMD,141884.0
+Dell,2 in 1 Convertible,12,Windows 10,1.6,Full HD,1920,1080,Yes,Yes,No,Intel,2.7,0,SSD,No,Intel,410484.0
+MSI,Gaming,16,Windows 10,2.94,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,574804.0
+HP,Notebook,8,Windows 10,2.04,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,338120.0
+Asus,Gaming,16,No OS,4.0,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,HDD,No,Nvidia,315368.0
+Dell,Notebook,4,Windows 10,2.25,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Intel,176644.0
+Dell,Notebook,16,Windows 10,2.32,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,AMD,312837.0
+MSI,Gaming,16,Windows 10,1.8,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,609564.0
+Dell,Ultrabook,8,Windows 10,1.29,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,460728.0
+Asus,Gaming,64,Windows 10,3.58,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Nvidia,1256100.0
+Dell,2 in 1 Convertible,8,Windows 10,1.62,Full HD,1920,1080,Yes,No,No,Intel,2.5,0,SSD,No,Intel,252171.0
+Dell,Gaming,16,Windows 10,3.21,4K Ultra HD,3840,2160,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,419964.0
+Apple,Ultrabook,8,Mac OS X,0.92,Standard,2304,1440,No,Yes,Yes,Intel,1.1,0,Flash Storage,No,Intel,410800.0
+Dell,Notebook,4,Windows 10,2.06,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,152306.0
+HP,Notebook,4,Windows 10,2.31,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,378884.0
+HP,Ultrabook,8,Windows 7,1.26,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,378884.0
+HP,Notebook,8,Windows 10,1.49,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,344440.0
+Lenovo,Ultrabook,8,Windows 10,1.3,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,541463.0
+Lenovo,Notebook,8,Windows 10,3.0,Standard,1600,900,No,No,No,Intel,2.3,0,HDD,No,AMD,208244.0
+Lenovo,Notebook,4,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.3,0,HDD,No,Nvidia,308732.0
+MSI,Gaming,16,Windows 10,3.78,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,789684.0
+Lenovo,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,170640.0
+HP,Notebook,4,Windows 7,2.31,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,297040.0
+Lenovo,Ultrabook,8,Windows 10,0.99,Standard,2560,1440,Yes,Yes,No,Intel,1.2,0,SSD,No,Intel,442084.0
+Lenovo,Gaming,32,Windows 10,4.6,Full HD,1920,1080,No,Yes,No,Intel,2.7,1024,SSD,Hybrid,Nvidia,1023840.0
+Lenovo,2 in 1 Convertible,4,Windows 10,0.69,Standard,1920,1200,Yes,Yes,No,Intel,1.44,0,Flash Storage,No,Intel,204221.0
+HP,Ultrabook,16,Windows 10,1.3,4K Ultra HD,3840,2160,No,Yes,No,Intel,2.7,0,SSD,No,Intel,647484.0
+Dell,Notebook,8,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,237000.0
+HP,Notebook,4,Windows 7,1.54,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,Intel,325793.0
+HP,Workstation,8,Windows 7,1.9,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,472420.0
+Lenovo,Notebook,8,Windows 7,1.7,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,378884.0
+HP,Notebook,4,Chrome OS,1.29,Quad HD+,3200,1800,No,No,No,Intel,1.5,0,Flash Storage,No,Intel,194340.0
+Acer,Notebook,4,Windows 10,2.4,Standard,1366,768,No,No,No,AMD,2.2,0,HDD,No,AMD,122292.0
+Dell,Notebook,4,Linux,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,124343.0
+HP,Notebook,4,No OS,1.86,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,109333.0
+Asus,Gaming,8,Windows 10,2.7,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,505284.0
+Dell,Ultrabook,4,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,1.6,0,SSD,No,AMD,258599.0
+HP,Netbook,4,Windows 7,2.4,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,505284.0
+Acer,Notebook,8,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.5,1024,SSD,HDD,Nvidia,252484.0
+Dell,Notebook,8,Windows 10,2.36,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,AMD,201861.0
+MSI,Gaming,8,Windows 10,2.6,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Nvidia,505284.0
+HP,Notebook,4,Windows 10,1.96,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,158000.0
+Asus,Gaming,16,Windows 10,4.3,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,726484.0
+Dell,Ultrabook,4,Windows 7,1.5,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,358707.0
+Dell,Ultrabook,4,Windows 7,1.5,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,368763.0
+Acer,Notebook,4,Chrome OS,2.2,Standard,1366,768,No,No,No,Intel,1.5,0,SSD,No,Intel,66044.0
+HP,Workstation,8,Windows 7,3.0,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,HDD,No,AMD,916084.0
+Lenovo,Gaming,16,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,378884.0
+Dell,Ultrabook,8,Windows 7,1.5,Standard,1366,768,No,No,No,Intel,2.3,0,SSD,No,Intel,446540.0
+MSI,Gaming,8,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,477536.0
+Lenovo,2 in 1 Convertible,4,Windows 10,2.1,Full HD,1920,1080,Yes,Yes,No,Intel,2.3,0,SSD,No,Intel,273972.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,AMD,2.5,0,HDD,No,AMD,125768.0
+Asus,Gaming,16,Windows 10,2.59,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,423124.0
+HP,Notebook,8,Windows 10,1.16,Quad HD+,3200,1800,Yes,No,No,Intel,1.1,0,SSD,No,Intel,536884.0
+Dell,Notebook,4,Windows 7,2.24,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,AMD,243051.0
+Lenovo,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,Intel,135564.0
+HP,Ultrabook,8,Windows 10,1.16,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,622204.0
+Lenovo,2 in 1 Convertible,4,Android,0.69,Standard,1920,1200,Yes,Yes,No,Intel,1.44,0,Flash Storage,No,Intel,173484.0
+Dell,Ultrabook,8,Windows 10,1.23,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,435764.0
+Lenovo,Gaming,16,Windows 10,4.6,Full HD,1920,1080,No,Yes,No,Intel,2.7,1024,SSD,Hybrid,Nvidia,868997.0
+Razer,Ultrabook,8,Windows 10,1.25,4K Ultra HD,3840,2160,Yes,No,No,Intel,2.5,0,SSD,No,Intel,325164.0
+Toshiba,Ultrabook,16,Windows 10,1.05,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,703416.0
+Asus,Gaming,8,Windows 10,3.52,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,414747.0
+Vero,Notebook,4,Windows 10,1.35,Full HD,1920,1080,No,No,No,Intel,1.44,0,Flash Storage,No,Intel,61936.0
+HP,Notebook,8,Windows 10,1.16,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,534040.0
+HP,Notebook,8,Windows 7,1.43,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,478108.0
+Dell,Notebook,4,Linux,2.09,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,165467.0
+Asus,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,137460.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.8,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,527404.0
+Lenovo,2 in 1 Convertible,4,Windows 10,0.69,Standard,1920,1200,Yes,Yes,No,Intel,1.44,0,Flash Storage,No,Intel,151364.0
+HP,Ultrabook,8,Windows 7,1.26,Standard,1366,768,No,No,No,Intel,2.4,0,SSD,No,Intel,598820.0
+Lenovo,Gaming,8,No OS,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.5,1024,SSD,HDD,Nvidia,312524.0
+HP,Gaming,8,Windows 10,3.35,Full HD,1920,1080,No,Yes,No,Intel,2.3,1024,SSD,HDD,Nvidia,356764.0
+HP,Notebook,8,Windows 10,2.04,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,Intel,198764.0
+Lenovo,2 in 1 Convertible,8,Windows 7,1.8,Full HD,1920,1080,Yes,Yes,No,Intel,2.6,0,SSD,No,Nvidia,647920.0
+Asus,Notebook,4,Windows 10,1.5,Standard,1366,768,No,No,No,Intel,1.1,0,Flash Storage,No,Intel,87848.0
+HP,Ultrabook,8,Windows 10,1.84,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Intel,237632.0
+Acer,Notebook,4,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,2.5,0,HDD,No,Nvidia,194656.0
+Lenovo,Notebook,16,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.5,0,Hybrid,No,AMD,347284.0
+HP,Workstation,8,Windows 7,3.0,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Nvidia,1248010.0
+Dell,Notebook,8,Windows 10,2.5,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,247744.0
+MSI,Gaming,16,Windows 10,3.78,Full HD,1920,1080,No,No,No,Intel,2.7,1024,SSD,HDD,Nvidia,758084.0
+HP,Ultrabook,8,Windows 7,1.88,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,686264.0
+Lenovo,2 in 1 Convertible,16,Windows 10,2.8,Standard,2560,1440,Yes,Yes,No,Intel,2.6,0,SSD,No,Intel,771040.0
+MSI,Gaming,8,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,361125.0
+HP,2 in 1 Convertible,8,Windows 10,1.48,Full HD,1920,1080,Yes,No,No,Intel,2.4,0,SSD,No,Intel,514764.0
+HP,Workstation,8,Windows 7,2.59,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Nvidia,704364.0
+HP,2 in 1 Convertible,8,Windows 10,1.48,Standard,2560,1440,Yes,No,No,Intel,2.6,0,SSD,No,Intel,568484.0
+HP,Workstation,8,Windows 7,2.0,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Nvidia,600084.0
+HP,Ultrabook,8,Windows 7,1.26,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,725836.0
+Dell,Notebook,8,Windows 10,2.18,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,319128.0
+HP,Notebook,8,Windows 7,1.88,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,498964.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.27,Standard,2560,1440,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,739124.0
+Lenovo,Notebook,4,No OS,1.9,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,107124.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,AMD,1.8,0,HDD,No,AMD,93852.0
+Lenovo,Notebook,8,No OS,2.32,Full HD,1920,1080,No,No,No,Intel,2.3,0,HDD,No,AMD,189284.0
+Dell,Gaming,8,Windows 10,2.62,Full HD,1920,1080,No,No,No,Intel,2.8,0,HDD,No,Nvidia,378884.0
+Dell,Notebook,8,Windows 10,2.04,4K Ultra HD,3840,2160,Yes,Yes,No,Intel,2.3,0,SSD,No,Nvidia,711215.0
+HP,Notebook,4,Windows 10,1.91,Full HD,1920,1080,No,No,No,AMD,2.5,0,SSD,No,AMD,151329.0
+MSI,Gaming,16,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,471725.0
+Lenovo,Ultrabook,12,Windows 7,1.4,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,726484.0
+Lenovo,Notebook,8,Windows 10,2.5,Full HD,1920,1080,No,No,No,Intel,2.3,0,Hybrid,No,AMD,249163.0
+HP,2 in 1 Convertible,8,Windows 10,1.48,Standard,2560,1440,Yes,No,No,Intel,2.6,0,SSD,No,Intel,644956.0
+Lenovo,Ultrabook,8,Windows 7,1.7,Full HD,1920,1080,No,No,No,Intel,2.6,0,SSD,No,Intel,473684.0
+MSI,Gaming,16,Windows 10,1.7,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,559004.0
+HP,Gaming,8,Windows 10,2.62,Full HD,1920,1080,No,Yes,No,Intel,2.8,0,HDD,No,Nvidia,284084.0
+Lenovo,Notebook,8,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,145044.0
+HP,Notebook,4,No OS,2.1,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,150729.0
+Dell,Gaming,8,Windows 10,2.62,4K Ultra HD,3840,2160,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,473368.0
+Lenovo,Notebook,8,Windows 10,1.95,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,439240.0
+Lenovo,Notebook,4,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Nvidia,147888.0
+HP,Notebook,2,Windows 10,1.44,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,78684.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,HDD,No,Nvidia,265124.0
+HP,Notebook,8,Windows 10,1.96,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,214564.0
+HP,Notebook,16,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,1.8,0,SSD,No,Intel,366244.0
+Asus,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,116604.0
+Lenovo,Notebook,4,No OS,2.1,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,125768.0
+Lenovo,Notebook,8,No OS,2.2,Full HD,1920,1080,No,No,No,Intel,2.7,0,HDD,No,Nvidia,224044.0
+Asus,Notebook,4,Windows 10,2.0,Full HD,1920,1080,No,No,No,Intel,2.4,0,SSD,No,Intel,243004.0
+Lenovo,Notebook,4,Windows 7,2.32,Full HD,1920,1080,No,No,No,Intel,2.5,0,Hybrid,No,Intel,260700.0
+Lenovo,Gaming,16,Windows 10,3.31,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Nvidia,412380.0
+MSI,Gaming,16,Windows 10,1.91,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,680465.0
+HP,Notebook,4,Windows 10,2.07,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,205400.0
+Lenovo,2 in 1 Convertible,8,Windows 10,1.36,Standard,2560,1440,Yes,Yes,No,Intel,2.3,0,SSD,No,Intel,517292.0
+Lenovo,Ultrabook,6,Windows 10,1.54,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,262596.0
+Dell,Notebook,8,Linux,1.98,Full HD,1920,1080,No,No,No,Intel,2.7,0,SSD,No,Nvidia,282823.0
+Acer,Notebook,4,Windows 10,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,105228.0
+HP,Notebook,6,Windows 10,2.18,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,HDD,No,Nvidia,252484.0
+Asus,Gaming,8,Windows 10,2.591,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,287244.0
+Dell,2 in 1 Convertible,16,Windows 10,2.09,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Intel,372564.0
+Acer,Notebook,4,Windows 10,2.23,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Nvidia,218356.0
+Dell,Ultrabook,8,Linux,1.23,Quad HD+,3200,1800,Yes,No,No,Intel,2.4,0,SSD,No,Intel,347284.0
+Acer,Gaming,16,Windows 10,4.2,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,821284.0
+Lenovo,Gaming,8,Windows 10,2.4,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,HDD,No,Nvidia,258804.0
+Samsung,2 in 1 Convertible,4,Chrome OS,1.15,Standard,2400,1600,Yes,Yes,No,Samsung,2.0,0,Flash Storage,No,ARM,208244.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,153260.0
+Apple,Ultrabook,8,Mac OS X,0.92,Standard,2304,1440,No,Yes,Yes,Intel,1.1,0,Flash Storage,No,Intel,367508.0
+Dell,2 in 1 Convertible,8,Windows 10,1.6,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,378884.0
+HP,Notebook,12,Windows 10,2.21,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,419332.0
+Lenovo,Notebook,4,No OS,1.9,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,AMD,116288.0
+Asus,Gaming,16,Windows 10,4.3,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,679400.0
+Acer,Notebook,4,Linux,2.1,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,85952.0
+MSI,Gaming,16,Windows 10,2.43,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,647452.0
+Dell,Notebook,4,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.0,0,SSD,No,AMD,157684.0
+Lenovo,Notebook,8,No OS,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Nvidia,198764.0
+Dell,2 in 1 Convertible,16,Windows 10,2.0,Full HD,1920,1080,Yes,No,No,Intel,1.8,0,SSD,No,Intel,406060.0
+Dell,Ultrabook,16,Windows 10,1.2,Quad HD+,3200,1800,Yes,No,No,Intel,2.7,0,SSD,No,Intel,846880.0
+Asus,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.6,0,HDD,No,Nvidia,369404.0
+Dell,Notebook,8,Windows 10,2.36,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,AMD,280924.0
+HP,Notebook,8,Windows 10,1.91,Standard,1366,768,No,No,No,Intel,2.5,0,SSD,No,Intel,182964.0
+Lenovo,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,AMD,2.2,0,HDD,No,AMD,94484.0
+Acer,Notebook,8,Windows 10,3.3,Standard,1600,900,No,No,No,Intel,2.0,0,HDD,No,Nvidia,198764.0
+Asus,Gaming,16,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,773884.0
+Apple,Ultrabook,8,Mac OS X,0.92,Standard,2304,1440,No,Yes,Yes,Intel,1.2,0,Flash Storage,No,Intel,404164.0
+Asus,Notebook,16,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,552684.0
+MSI,Gaming,16,Windows 10,2.43,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,615881.0
+Dell,2 in 1 Convertible,8,Windows 10,2.191,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,315684.0
+Asus,Gaming,16,Windows 10,2.9,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,615884.0
+Acer,Netbook,2,Chrome OS,1.3,Standard,1366,768,No,No,No,Intel,1.5,0,SSD,No,Intel,54984.0
+Acer,Notebook,4,Windows 10,3.3,Standard,1600,900,No,No,No,Intel,2.0,0,HDD,No,Nvidia,188968.0
+Lenovo,Notebook,8,No OS,2.8,Standard,1600,900,No,No,No,Intel,2.5,0,HDD,No,Intel,170324.0
+Lenovo,Gaming,8,Windows 10,2.6,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,401952.0
+Acer,2 in 1 Convertible,8,Windows 10,1.2,Full HD,1920,1080,Yes,Yes,No,Intel,1.3,0,SSD,No,Intel,363084.0
+Lenovo,Notebook,8,Windows 10,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,SSD,No,Intel,483164.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,466451.0
+HP,Notebook,6,Windows 10,2.1,Full HD,1920,1080,No,No,No,AMD,2.7,0,HDD,No,AMD,167164.0
+Dell,Ultrabook,8,Windows 7,1.26,Full HD,1920,1080,Yes,No,No,Intel,2.4,0,SSD,No,Intel,541425.0
+Dell,2 in 1 Convertible,4,Windows 10,2.08,Full HD,1920,1080,Yes,No,No,Intel,2.4,0,HDD,No,Intel,160844.0
+Asus,Notebook,4,Windows 10,2.65,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,97644.0
+Dell,Ultrabook,8,Windows 10,1.29,Quad HD+,3200,1800,Yes,No,No,Intel,2.7,0,SSD,No,Intel,466732.0
+Dell,Notebook,4,Linux,2.18,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,164908.0
+Lenovo,Gaming,16,Windows 10,2.6,Full HD,1920,1080,Yes,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,325164.0
+MSI,Gaming,8,Windows 10,2.2,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,363084.0
+Lenovo,Netbook,16,Windows 10,1.3,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,521400.0
+Razer,Gaming,16,Windows 10,1.95,Full HD,1920,1080,No,No,No,Intel,2.8,0,SSD,No,Nvidia,1105684.0
+Dell,Notebook,8,Windows 10,2.3,Standard,1366,768,Yes,No,No,Intel,2.4,0,HDD,No,Intel,148207.0
+MSI,Gaming,16,Windows 10,2.7,Full HD,1920,1080,No,No,No,Intel,2.8,1024,SSD,HDD,Nvidia,504968.0
+Apple,Ultrabook,4,Mac OS X,1.08,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,303044.0
+HP,Notebook,4,Windows 10,2.1,Full HD,1920,1080,No,No,No,Intel,2.0,0,HDD,No,Intel,151048.0
+HP,Ultrabook,8,Windows 7,1.54,Standard,2560,1440,No,No,No,Intel,2.5,0,SSD,No,Intel,694628.0
+Dell,Notebook,4,Windows 7,2.24,Standard,1366,768,No,No,No,Intel,2.3,0,HDD,No,Intel,232892.0
+MSI,Gaming,8,Windows 10,2.3,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,369404.0
+Lenovo,Notebook,16,Windows 10,1.4,Full HD,1920,1080,No,Yes,No,Intel,2.7,0,SSD,No,Intel,473684.0
+Lenovo,Notebook,6,Windows 10,2.2,Full HD,1920,1080,No,No,No,AMD,3.6,0,SSD,No,AMD,188832.0
+Asus,Ultrabook,8,Windows 10,1.45,Full HD,1920,1080,No,No,No,Intel,2.5,0,SSD,No,Intel,404480.0
+Acer,Notebook,4,Linux,2.4,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,114329.0
+Dell,2 in 1 Convertible,16,Windows 10,2.77,Full HD,1920,1080,Yes,No,No,Intel,2.7,0,SSD,No,Nvidia,568484.0
+HP,Notebook,4,Windows 7,1.54,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Intel,347597.0
+Asus,Gaming,16,Windows 10,2.5,Full HD,1920,1080,No,Yes,No,Intel,2.8,1024,SSD,HDD,Nvidia,505600.0
+Dell,Notebook,4,Windows 10,1.6,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Intel,276500.0
+Asus,Gaming,16,Windows 10,2.34,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,734700.0
+Lenovo,Notebook,8,No OS,2.3,Full HD,1920,1080,No,Yes,No,Intel,2.5,0,SSD,No,Intel,181068.0
+Dell,2 in 1 Convertible,8,Windows 10,1.24,Quad HD+,3200,1800,Yes,No,No,Intel,1.2,0,SSD,No,Intel,572908.0
+Dell,Notebook,4,Linux,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,102384.0
+HP,Notebook,4,Windows 10,1.86,Standard,1366,768,No,No,No,AMD,2.5,0,HDD,No,AMD,126084.0
+Lenovo,Notebook,6,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.3,0,SSD,No,Nvidia,179804.0
+Lenovo,Notebook,8,Windows 10,1.9,Full HD,1920,1080,No,Yes,No,Intel,2.3,0,SSD,No,Intel,338752.0
+Dell,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,140301.0
+Asus,Notebook,4,Windows 10,2.0,Standard,1366,768,No,No,No,Intel,1.1,0,HDD,No,Intel,107124.0
+Asus,Gaming,16,Windows 10,4.0,Full HD,1920,1080,No,Yes,No,Intel,2.6,1024,SSD,HDD,Nvidia,600400.0
+Dell,Notebook,4,Windows 10,2.29,Standard,1366,768,No,No,No,Intel,2.0,0,HDD,No,Intel,154840.0
+Lenovo,Notebook,8,Windows 7,2.32,Full HD,1920,1080,No,No,No,Intel,2.5,0,Hybrid,No,AMD,282820.0
+MSI,Gaming,8,Windows 10,2.4,Full HD,1920,1080,No,No,No,Intel,2.6,1024,SSD,HDD,Nvidia,388364.0
+Lenovo,2 in 1 Convertible,4,Windows 10,1.8,Full HD,1920,1080,Yes,No,No,Intel,2.3,0,SSD,No,Intel,263231.0
+Asus,Ultrabook,8,Windows 10,1.2,Full HD,1920,1080,No,Yes,No,Intel,0.9,0,SSD,No,Intel,230364.0
+Dell,Notebook,6,Windows 10,2.3,Standard,1366,768,No,No,No,Intel,2.4,0,HDD,No,Intel,145044.0
+Acer,Notebook,4,Linux,2.4,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,91324.0
+Dell,Notebook,2,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,119764.0
+Lenovo,Notebook,8,Windows 10,2.6,Full HD,1920,1080,No,Yes,No,Intel,2.6,0,HDD,No,Nvidia,284084.0
+HP,Notebook,6,Windows 10,2.04,Full HD,1920,1080,No,No,No,AMD,2.9,0,Hybrid,No,AMD,173797.0
+Dell,Notebook,8,Linux,2.3,Standard,1366,768,No,No,No,Intel,2.7,0,HDD,No,AMD,254693.0
+HP,Netbook,2,Windows 10,1.17,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,66044.0
+Asus,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,Nvidia,227621.0
+Lenovo,2 in 1 Convertible,4,Windows 10,1.8,Full HD,1920,1080,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,201608.0
+Lenovo,2 in 1 Convertible,16,Windows 10,1.3,Quad HD+,3200,1800,Yes,Yes,No,Intel,2.5,0,SSD,No,Intel,473684.0
+Lenovo,Notebook,2,Windows 10,1.5,Standard,1366,768,No,No,No,Intel,1.6,0,Flash Storage,No,Intel,72364.0
+HP,Notebook,6,Windows 10,2.19,Standard,1366,768,No,No,No,Intel,2.5,0,HDD,No,AMD,241424.0
+Asus,Notebook,4,Windows 10,2.2,Standard,1366,768,No,No,No,Intel,1.6,0,HDD,No,Intel,116604.0
