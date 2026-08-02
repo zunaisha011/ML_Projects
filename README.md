@@ -1,5 +1,7 @@
 # 💻 Laptop Price Predictor
 
+**🔗 Live demo: [predict-laptop-price.netlify.app](https://predict-laptop-price.netlify.app/)**
+
 A Multiple Linear Regression model that predicts laptop prices (in PKR), paired with a clean, interactive web UI that lets anyone configure a laptop's specs and get an instant price estimate — no backend required.
 
 Trained end-to-end on a real-world dataset of 1275 laptop listings covering 19 brands, using scikit-learn.
