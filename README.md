@@ -15,11 +15,11 @@ Trained end-to-end on a real-world dataset of 1275 laptop listings covering 19 b
 
 **Landing screen**
 
-![Landing screen](screenshots/landing.png)
+![Landing screen](Laptop_Price_Prediction_Linear_Regression/screenshots/landing.png)
 
 **Configuration screen**
 
-![Configuration screen](screenshots/form.png)
+![Configuration screen](Laptop_Price_Prediction_Linear_Regression/screenshots/form.png)
 
 ## 🧠 Model
 
@@ -29,9 +29,8 @@ Trained end-to-end on a real-world dataset of 1275 laptop listings covering 19 b
 | Features | Ram, Weight, ScreenW, ScreenH, CPU_freq, SecondaryStorage + one-hot encoded Company, TypeName, OS, Screen, Touchscreen, IPSpanel, RetinaDisplay, CPU_company, PrimaryStorageType, SecondaryStorageType, GPU_company |
 | Train/test split | 80/20 |
 | **R² score** | **0.78** |
-| **MAE** | **~PKR 75,700** |
 
-Full training pipeline — data cleaning, EUR→PKR conversion, one-hot encoding, train/test split, and evaluation — is documented in [`training.ipynb`](training.ipynb).
+Full training pipeline — data cleaning, EUR→PKR conversion, one-hot encoding, train/test split, and evaluation — is documented in [`training.ipynb`](Laptop_Price_Prediction_Linear_Regression/training.ipynb).
 
 ## 🛠️ Tech stack
 
@@ -40,16 +39,19 @@ Full training pipeline — data cleaning, EUR→PKR conversion, one-hot encoding
 
 ## 📁 Project structure
 
-```
-Laptop_Price_Prediction_Linear_Regression/
+```text
+ML_Projects/
 ├── README.md
-├── training.ipynb          Model training notebook
-├── laptop_price.csv        Dataset used for training
-├── screenshots/            App screenshots used in this README
-└── app/
-    ├── index.html          Prediction UI markup
-    ├── style.css            Styling
-    └── script.js            Model coefficients + prediction logic
+└── Laptop_Price_Prediction_Linear_Regression/
+    ├── training.ipynb
+    ├── laptop_price.csv
+    ├── screenshots/
+    │   ├── landing.png
+    │   └── form.png
+    └── app/
+        ├── index.html
+        ├── style.css
+        └── script.js
 ```
 
 ## 🚀 Running the app
