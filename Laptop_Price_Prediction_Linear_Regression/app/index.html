@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Laptop Price Predictor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+<!-- Animated Background Blobs -->
+<div class="blob blob-1"></div>
+<div class="blob blob-2"></div>
+<div class="blob blob-3"></div>
+<div class="glass-overlay"></div>
+
+<!-- SCREEN 1: LANDING -->
+<div id="landing" class="screen">
+  <div class="hero-content glass-panel">
+    <div class="eyebrow">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 17.01"></polyline></svg>
+      Multiple Linear Regression &middot; R&sup2; = 0.78
+    </div>
+    <h1 class="gradient-text">Predict Laptop Price</h1>
+    <p>Set the exact specs — brand, type, screen, storage, everything — and get an instant estimated price, trained on 1275 real laptop listings.</p>
+    <button class="primary-btn glow-effect" onclick="goToForm()">
+      Configure Laptop
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 8px;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+    </button>
+    <div class="stat-row">
+      <div class="stat-item"><div class="num">1275</div><div class="lbl">Listings</div></div>
+      <div class="stat-separator"></div>
+      <div class="stat-item"><div class="num">19</div><div class="lbl">Brands</div></div>
+      <div class="stat-separator"></div>
+      <div class="stat-item"><div class="num">67</div><div class="lbl">Features</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- SCREEN 2: FORM -->
+<div id="formScreen" class="screen hidden">
+  <div class="wrap">
+    
+    <div class="form-header">
+      <button class="back-btn" onclick="goToLanding()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        Back
+      </button>
+      <div>
+        <h2 class="gradient-text">Configuration</h2>
+        <div class="sub">Every field exactly matches a column in the dataset.</div>
+      </div>
+    </div>
+
+    <div class="glass-panel main-panel">
+      
+      <!-- Brand & Type -->
+      <div class="section">
+        <div class="section-label">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+          Brand &amp; Type
+        </div>
+        <div class="grid cols-3">
+          <div class="field">
+            <label>Company</label>
+            <div class="select-wrapper"><select id="Company"></select></div>
+          </div>
+          <div class="field">
+            <label>Type</label>
+            <div class="select-wrapper"><select id="TypeName"></select></div>
+          </div>
+          <div class="field">
+            <label>Operating System</label>
+            <div class="select-wrapper"><select id="OS"></select></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Performance -->
+      <div class="section">
+        <div class="section-label">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
+          Performance
+        </div>
+        <div class="grid cols-4">
+          <div class="field">
+            <label>RAM (GB)</label>
+            <div class="select-wrapper"><select id="Ram"></select></div>
+          </div>
+          <div class="field">
+            <label>CPU Freq (GHz)</label>
+            <div class="select-wrapper"><select id="CPU_freq"></select></div>
+          </div>
+          <div class="field">
+            <label>CPU Brand</label>
+            <div class="select-wrapper"><select id="CPU_company"></select></div>
+          </div>
+          <div class="field">
+            <label>GPU Brand</label>
+            <div class="select-wrapper"><select id="GPU_company"></select></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Display -->
+      <div class="section">
+        <div class="section-label">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+          Display
+        </div>
+        <div class="grid cols-2-3">
+          <div class="field">
+            <label>Screen Type</label>
+            <div class="select-wrapper"><select id="Screen"></select></div>
+          </div>
+          <div class="field">
+            <label>Resolution</label>
+            <div class="select-wrapper"><select id="Resolution"></select></div>
+          </div>
+          
+          <div class="field">
+            <label>Touchscreen</label>
+            <div class="toggle-group" id="Touchscreen-group">
+              <div class="toggle-btn" data-val="Yes">Yes</div>
+              <div class="toggle-btn active" data-val="No">No</div>
+            </div>
+          </div>
+          <div class="field">
+            <label>IPS Panel</label>
+            <div class="toggle-group" id="IPSpanel-group">
+              <div class="toggle-btn" data-val="Yes">Yes</div>
+              <div class="toggle-btn active" data-val="No">No</div>
+            </div>
+          </div>
+          <div class="field">
+            <label>Retina Display</label>
+            <div class="toggle-group" id="RetinaDisplay-group">
+              <div class="toggle-btn" data-val="Yes">Yes</div>
+              <div class="toggle-btn active" data-val="No">No</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Storage & Build -->
+      <div class="section">
+        <div class="section-label">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg>
+          Storage &amp; Build
+        </div>
+        <div class="grid cols-4">
+          <div class="field">
+            <label>Pri. Storage Type</label>
+            <div class="select-wrapper"><select id="PrimaryStorageType"></select></div>
+          </div>
+          <div class="field">
+            <label>Sec. Storage (GB)</label>
+            <div class="select-wrapper"><select id="SecondaryStorage"></select></div>
+          </div>
+          <div class="field">
+            <label>Sec. Storage Type</label>
+            <div class="select-wrapper"><select id="SecondaryStorageType"></select></div>
+          </div>
+          <div class="field">
+            <label>Weight (kg): <span class="val" id="WeightVal">2.0</span></label>
+            <div class="range-container">
+              <input type="range" id="Weight" min="0.7" max="4.7" step="0.1" value="2.0">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="predict-row">
+        <button class="primary-btn predict glow-effect" onclick="predict()">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right:8px"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>
+          Predict Price
+        </button>
+        <div class="result">
+          <div class="label">Estimated Price</div>
+          <div class="amount" id="priceOut">PKR --</div>
+        </div>
+      </div>
+
+      <div class="footnote">
+        Multiple Linear Regression &middot; scikit-learn &middot; one-hot encoded categoricals &middot; 80/20 split &middot; R&sup2; = 0.7822
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
