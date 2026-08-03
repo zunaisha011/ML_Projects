@@ -27,7 +27,7 @@ Trained end-to-end on a real-world dataset of 1275 laptop listings covering 19 b
 
 | | |
 |---|---|
-| Algorithm | scikit-learn `LinearRegression` |
+| Algorithm | scikit-learn `LinearRegression(Multiple)` |
 | Features | Ram, Weight, ScreenW, ScreenH, CPU_freq, SecondaryStorage + one-hot encoded Company, TypeName, OS, Screen, Touchscreen, IPSpanel, RetinaDisplay, CPU_company, PrimaryStorageType, SecondaryStorageType, GPU_company |
 | Train/test split | 80/20 |
 | **R² score** | **0.78** |
