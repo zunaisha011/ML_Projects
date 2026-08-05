@@ -30,7 +30,7 @@ Trained end-to-end on a real-world dataset of 1275 laptop listings covering 19 b
 | Algorithm | scikit-learn `LinearRegression(Multiple)` |
 | Features | Ram, Weight, ScreenW, ScreenH, CPU_freq, SecondaryStorage + one-hot encoded Company, TypeName, OS, Screen, Touchscreen, IPSpanel, RetinaDisplay, CPU_company, PrimaryStorageType, SecondaryStorageType, GPU_company |
 | Train/test split | 80/20 |
-| **R² score** | **0.78** |
+| **R² score** | **0.788** |
 
 Full training pipeline — data cleaning, EUR→PKR conversion, one-hot encoding, train/test split, and evaluation — is documented in [`training.ipynb`](Laptop_Price_Prediction_Linear_Regression/training.ipynb).
 
