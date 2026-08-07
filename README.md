@@ -13,4 +13,5 @@
 
 **Model:** Logistic Regression
 **🔗 Live Demo:** **[heart-patient-prediction.netlify.app](https://heart-patient-prediction.netlify.app/)**
+
 **📂 GitHub:** [View Project](https://github.com/zunaisha011/ML_Projects/tree/main/2)Heart_Disease_Prediction_Logistic_Regression_2classes)
