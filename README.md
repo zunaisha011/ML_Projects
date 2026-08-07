@@ -4,6 +4,7 @@
 
 **Model:** Multiple Linear Regression
 **🔗 Live Demo:** **[predict-laptop-price.netlify.app](https://predict-laptop-price.netlify.app/)**
+
 **📂 GitHub:** [View Project](https://github.com/zunaisha011/ML_Projects/tree/main/1)Laptop_Price_Prediction_Linear_Regression)
 
 ---
