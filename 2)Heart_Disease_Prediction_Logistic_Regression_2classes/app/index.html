@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heart Disease Predictor</title>
+  <meta name="description" content="AI Heart Disease Risk Prediction using Logistic Regression">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Animated Background Glow Blobs -->
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+  <div class="glass-overlay"></div>
+
+  <!-- SCREEN 1: LANDING SCREEN -->
+  <div id="landing" class="screen">
+    <div class="hero-content glass-panel">
+      <div class="eyebrow">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+          <polyline points="22 4 12 14.01 9 17.01"></polyline>
+        </svg>
+        Logistic Regression &middot; Accuracy = 85.19%
+      </div>
+      <h1 class="gradient-text">Heart Disease Predictor</h1>
+      <p>Enter clinical health parameters — age, blood pressure, cholesterol, ECG, and test results — to predict the presence or absence of heart disease using a trained machine learning model.</p>
+      
+      <button class="primary-btn glow-effect" onclick="goToForm()">
+        Start Assessment
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 8px;">
+          <line x1="5" y1="12" x2="19" y2="12"></line>
+          <polyline points="12 5 19 12 12 19"></polyline>
+        </svg>
+      </button>
+
+      <div class="stat-row">
+        <div class="stat-item"><div class="num">85.19%</div><div class="lbl">Model Accuracy</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SCREEN 2: FORM SCREEN -->
+  <div id="formScreen" class="screen hidden">
+    <div class="wrap">
+      
+      <div class="form-header">
+        <button class="back-btn" onclick="goToLanding()">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12 19 5 12 12 5"></polyline>
+          </svg>
+          Back
+        </button>
+        <div>
+          <h2 class="gradient-text">Patient Health Parameters</h2>
+          <div class="sub">Every input corresponds directly to a feature used in training the Logistic Regression model.</div>
+        </div>
+      </div>
+
+      <div class="glass-panel main-panel">
+        
+        <!-- Section 1: Demographics & Vitals -->
+        <div class="section">
+          <div class="section-label">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+              <circle cx="12" cy="7" r="4"></circle>
+            </svg>
+            Demographics &amp; Vitals
+          </div>
+          <div class="grid cols-4">
+            <div class="field">
+              <label>Age (Years): <span class="val" id="AgeVal">54</span></label>
+              <div class="range-container">
+                <input type="range" id="Age" min="25" max="80" step="1" value="54">
+              </div>
+            </div>
+            <div class="field">
+              <label>Sex</label>
+              <div class="toggle-group" id="Sex-group">
+                <div class="toggle-btn active" data-val="1">Male</div>
+                <div class="toggle-btn" data-val="0">Female</div>
+              </div>
+            </div>
+            <div class="field">
+              <label>Resting BP (mm Hg): <span class="val" id="BPVal">130</span></label>
+              <div class="range-container">
+                <input type="range" id="BP" min="90" max="200" step="1" value="130">
+              </div>
+            </div>
+            <div class="field">
+              <label>Max Heart Rate: <span class="val" id="Max_HRVal">150</span></label>
+              <div class="range-container">
+                <input type="range" id="Max_HR" min="70" max="210" step="1" value="150">
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 2: Pain & Symptoms -->
+        <div class="section">
+          <div class="section-label">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+            </svg>
+            Cardiac Pain &amp; Symptoms
+          </div>
+          <div class="grid cols-2">
+            <div class="field">
+              <label>Chest Pain Type</label>
+              <div class="select-wrapper">
+                <select id="Chest_pain_type">
+                  <option value="1">Type 1: Typical Angina</option>
+                  <option value="2">Type 2: Atypical Angina</option>
+                  <option value="3">Type 3: Non-Anginal Pain</option>
+                  <option value="4" selected>Type 4: Asymptomatic</option>
+                </select>
+              </div>
+            </div>
+            <div class="field">
+              <label>Exercise Induced Angina</label>
+              <div class="toggle-group" id="Exercise_angina-group">
+                <div class="toggle-btn" data-val="1">Yes (Pain on Exertion)</div>
+                <div class="toggle-btn active" data-val="0">No (None)</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 3: Laboratory Blood Tests -->
+        <div class="section">
+          <div class="section-label">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path>
+            </svg>
+            Laboratory Blood Tests
+          </div>
+          <div class="grid cols-2">
+            <div class="field">
+              <label>Serum Cholesterol (mg/dl): <span class="val" id="CholesterolVal">240</span></label>
+              <div class="range-container">
+                <input type="range" id="Cholesterol" min="120" max="570" step="2" value="240">
+              </div>
+            </div>
+            <div class="field">
+              <label>Fasting Blood Sugar (&gt; 120 mg/dl)</label>
+              <div class="toggle-group" id="FBS_over_120-group">
+                <div class="toggle-btn" data-val="1">Elevated (&gt; 120 mg/dl)</div>
+                <div class="toggle-btn active" data-val="0">Normal (&le; 120 mg/dl)</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 4: ECG & Diagnostic Imaging -->
+        <div class="section">
+          <div class="section-label">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+              <line x1="8" y1="21" x2="16" y2="21"></line>
+              <line x1="12" y1="17" x2="12" y2="21"></line>
+            </svg>
+            ECG &amp; Diagnostic Imaging
+          </div>
+          <div class="grid cols-3">
+            <div class="field">
+              <label>Resting EKG Results</label>
+              <div class="select-wrapper">
+                <select id="EKG_results">
+                  <option value="0" selected>0: Normal</option>
+                  <option value="1">1: ST-T Wave Abnormality</option>
+                  <option value="2">2: Left Ventricular Hypertrophy</option>
+                </select>
+              </div>
+            </div>
+            <div class="field">
+              <label>ST Depression: <span class="val" id="ST_depressionVal">0.8</span> mm</label>
+              <div class="range-container">
+                <input type="range" id="ST_depression" min="0.0" max="6.2" step="0.1" value="0.8">
+              </div>
+            </div>
+            <div class="field">
+              <label>Peak Exercise ST Slope</label>
+              <div class="select-wrapper">
+                <select id="Slope_of_ST">
+                  <option value="1">1: Upsloping</option>
+                  <option value="2" selected>2: Flat</option>
+                  <option value="3">3: Downsloping</option>
+                </select>
+              </div>
+            </div>
+            <div class="field">
+              <label>Major Vessels (Fluoroscopy)</label>
+              <div class="select-wrapper">
+                <select id="Number_of_vessels_fluro">
+                  <option value="0" selected>0 Vessels (Clear)</option>
+                  <option value="1">1 Vessel</option>
+                  <option value="2">2 Vessels</option>
+                  <option value="3">3 Vessels</option>
+                </select>
+              </div>
+            </div>
+            <div class="field" style="grid-column: span 2;">
+              <label>Thallium Stress Test</label>
+              <div class="select-wrapper">
+                <select id="Thallium">
+                  <option value="3" selected>3: Normal Perfusion</option>
+                  <option value="6">6: Fixed Defect (Permanent Scar)</option>
+                  <option value="7">7: Reversible Defect (Active Ischemia)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- PREDICTION ROW AT BOTTOM -->
+        <div class="predict-row">
+          <button class="primary-btn predict glow-effect" onclick="predict()">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-right:8px">
+              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+              <polyline points="22 4 12 14.01 9 17.01"></polyline>
+            </svg>
+            Predict Heart Disease
+          </button>
+          
+          <div class="result" id="resultContainer">
+            <div class="label" id="resultLabel">Prediction Result</div>
+            <div class="amount" id="resultOut">--</div>
+            <div class="prob-subtext" id="probOut">Probability: --%</div>
+          </div>
+        </div>
+
+        <div class="footnote">
+          Logistic Regression &middot; Accuracy: 85.19%
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
