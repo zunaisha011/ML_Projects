@@ -66,6 +66,7 @@ or serve the `app/` folder with any static host (GitHub Pages, Netlify, Vercel) 
 ## 📓 Running the notebook
 
 ```bash
+
 pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook training.ipynb
 ```
